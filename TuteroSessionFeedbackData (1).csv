@@ -1,0 +1,1001 @@
+student_id,name,age,grade_level,location,subjects,enrollment_date,tutor_id,tutor_name,tutor_experience_years,tutor_rating,pre_tutoring_score,post_tutoring_score,improvement_percentage
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,84,96,14.29
+ea455fc7-c80c-4483-b4dd-7624c3d9b3b0,Laura Dominguez,9,11,East Jessica,"English, Biology, Math",2021-12-27,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,81,82,1.23
+39b66d71-951a-4518-87e7-7e2b6b291a13,Erik Stokes,11,3,Prestonville,Science,2023-08-09,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,100,100,0.0
+681091fe-0a5a-4322-8578-42a9934c472a,Curtis Murphy,15,7,East Laurastad,"Physics, English",2020-03-28,9bbab50a-969d-4830-9b08-492ec413e9ba,Tyler Parsons,10,4.2,95,100,5.26
+1624d318-a326-42e8-a1ab-17c0766229cc,Mr. Aaron Hale,16,10,Smithport,"History, Geography",2020-12-21,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,82,87,6.1
+c110412c-3843-4ed6-a586-94b6113c1836,Christopher Mayer,12,12,Zimmermanborough,"Physics, Math, Geography",2023-02-16,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,59,65,10.17
+18711121-c9e8-460c-8a8f-541d052ba051,Monica Davis,7,8,Mckinneyshire,"Chemistry, Science, English",2021-09-06,9bbab50a-969d-4830-9b08-492ec413e9ba,Tyler Parsons,10,4.2,62,63,1.61
+3e581dd5-eed1-4368-9811-6722277dfc7b,Tara Morgan,11,2,North Erin,History,2023-04-22,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,94,98,4.26
+4d18c103-a100-4d14-ba92-cd28c4c536fb,Brooke Mccarthy,18,5,Davisfort,"Physics, Chemistry, History",2021-12-22,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,76,82,7.89
+be792965-3c9a-4236-b2bb-e7b392b95731,Sharon Jacobson,7,5,East Frankland,Geography,2023-08-18,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,84,94,11.9
+3d992624-4b93-48d9-a188-0ea05e5ecd0a,Victor Herrera,15,3,Sheribury,History,2022-11-15,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,67,83,23.88
+d370c51f-d8e2-4a4c-8d84-344baef472a7,Caitlyn Williams,7,1,Foxburgh,"Chemistry, Physics, Biology",2023-04-11,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,86,95,10.47
+abf0f4bd-4af0-46fe-9bbd-d1f416f14aad,David Kelly,14,12,Morganfort,"English, Math, Biology",2023-05-04,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,68,94,38.24
+061f5679-6908-4bd6-af61-7cacc674d244,Stephen Tran,7,2,Walkerbury,"Geography, English",2022-02-25,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,76,95,25.0
+cb85eda6-db01-48ff-9e21-c855cc713ba6,Alisha Murray,14,12,North Robert,"Math, English",2023-03-29,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,66,94,42.42
+25323fd3-c9f3-4bf8-8d03-cbddcc869dea,William Stephens,7,7,East Michelle,"English, Chemistry",2023-07-20,e412eb0b-d260-430d-aedc-5fdd27ef0967,Benjamin Garcia DVM,9,4.2,88,88,0.0
+a4b0c73b-f74e-41a1-a2e5-b72606b9370b,Mark Wise,15,5,Mcdonaldshire,"Science, Geography",2024-05-26,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,90,97,7.78
+b287c440-7881-407d-ae77-1359677abeb7,Amy Fletcher,18,7,Jamesberg,Science,2021-11-18,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,100,100,0.0
+91dc59ef-eb21-43f6-a6fd-68e8d69c91c2,Michael Levy,12,6,Port Ericaburgh,"History, Biology, Geography",2022-11-29,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,50,95,90.0
+ce65b211-a3c9-48d7-aceb-18652fc339b9,Jason Arroyo,11,7,West Michael,History,2022-09-02,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,53,65,22.64
+033c1469-4f06-4a18-b4a2-64447d3c279b,Kristi Martin,13,9,Lambfort,History,2022-09-02,c317310d-db21-41c5-9551-d5e34f47bc94,Chelsea Banks,2,3.8,76,78,2.63
+6f9179cf-0018-4cfe-8eb0-92207984f33f,William Williams,16,10,Anthonystad,"Math, History",2023-02-15,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,76,100,31.58
+c315d334-e47c-48ea-939e-5ca2b9e7f780,David Clark,15,7,Port Melissahaven,Physics,2020-07-27,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,80,92,15.0
+82f1240d-4e5c-4dd2-9dda-17a36779de0d,Calvin Anderson,8,12,Thorntonton,"Math, Science",2024-06-02,d18c9149-847e-4300-baad-e4d47593afba,Christina Price,18,4.9,54,76,40.74
+d432f8db-6a17-4c1c-bf9c-c545635518f7,April Lee,11,10,Ernestbury,Chemistry,2023-10-24,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,82,100,21.95
+7a658abe-1188-4fa1-b660-ffd5119fc1c4,Troy Hawkins,7,5,Timothyville,"Physics, Math, Science",2022-07-10,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,59,90,52.54
+d44f85e7-e2f8-4051-813c-66888f1b5be1,Tyler Wright,14,9,East Mary,"English, Chemistry",2022-05-16,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,66,74,12.12
+af405e52-199a-4949-ba9d-82b8afbae6c3,Deborah Glover,17,4,Williamside,"English, History",2020-08-20,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,85,88,3.53
+0fa07a3f-2e29-4065-afa2-31e959acdd98,Amanda Garcia,16,4,Gonzalezstad,"Biology, Science",2023-12-31,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,93,97,4.3
+b4577bf7-a251-40a8-9870-c707955fbc33,Dr. Ashley Maxwell,7,2,New Dawn,"History, Science",2024-05-14,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,81,84,3.7
+0212585b-0b2f-4580-b3f0-53233bd5f8a2,Aaron Wilson,15,2,North Joyce,"Geography, English",2021-09-06,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,94,97,3.19
+90ec8374-6862-4c24-a13a-6ad812b34a24,Tracy Reynolds,6,7,Sanchezfurt,"History, Geography, Physics",2021-11-30,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,96,96,0.0
+98c75205-1e01-4934-802d-0baf878b9f6b,Mary Smith,7,6,Mcculloughhaven,Geography,2022-08-25,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,60,61,1.67
+6b944e09-21cc-44b3-92bd-f75fb3c161c3,Jason House,6,11,Evansstad,"English, Math",2020-09-19,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,95,100,5.26
+c5cf255f-278d-44f6-88df-480ea3b4e529,Philip Taylor,13,10,West Adammouth,"English, Physics",2021-03-27,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,83,99,19.28
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,53,78,47.17
+606e8502-002f-4cc4-896b-fafff5b7751f,Tony Dominguez,17,5,East Kimberly,Geography,2021-05-08,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,76,78,2.63
+52722246-257e-4412-a215-74899fbd4b9f,Ryan Scott,14,11,New Janet,"Biology, History",2020-12-22,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,87,96,10.34
+b3969057-425c-4200-905a-da6b720299e3,Joseph Freeman,15,7,North Troyport,"English, History, Math",2023-12-21,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,64,94,46.88
+17fd3736-b7ef-441c-9e00-ea6dca24be4d,Marc Williams,15,1,East Tina,"Science, Chemistry",2022-06-18,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,67,99,47.76
+2367ad9e-8dcd-4d64-b9e8-e4ee8b7f6d7a,Daniel Perez,12,9,Port Trevor,"History, Chemistry, Biology",2022-06-13,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,89,99,11.24
+07b6e08e-6ac1-4a75-afb9-18c86e5bac20,Sean Nguyen III,14,5,Chadstad,"Biology, Chemistry",2020-04-01,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,50,67,34.0
+567fec5e-04ea-481d-a006-8c1cbbd743b3,Cheryl Gutierrez,17,4,Lake Larryfurt,Chemistry,2020-06-11,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,57,87,52.63
+3085ee6d-a31c-45d2-8d96-a6a19dbdc6ff,Kimberly Brown,14,1,East Rebeccatown,English,2022-03-12,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,51,90,76.47
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,58,78,34.48
+a83299e9-fae4-4529-ba9f-cece50ed6af2,Katelyn Olson,8,11,Josephland,"Math, Physics",2023-11-26,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,83,87,4.82
+771a0a12-2a6c-46cb-aa63-0fd171cf539d,Ronald Jackson,8,3,New Nicholasville,"Geography, Math, Chemistry",2020-11-08,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,70,90,28.57
+91dc59ef-eb21-43f6-a6fd-68e8d69c91c2,Michael Levy,12,6,Port Ericaburgh,"History, Biology, Geography",2022-11-29,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,83,83,0.0
+3a05c0b7-3ddf-45b2-8151-28dbaf8c96a9,Dr. Donald Smith MD,11,4,Christopherport,"Chemistry, English, Geography",2023-08-05,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,82,97,18.29
+f902d6c0-5bf5-4279-8704-768e6e927501,Ralph Kaiser,7,9,South Rebeccaville,"Physics, Chemistry",2023-10-17,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,66,72,9.09
+bda17da2-000f-463d-a2a0-1335a83023ab,Jonathon Scott,14,9,South Michelleport,Science,2023-06-21,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,66,68,3.03
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,302d6194-ee55-4e17-9e5d-d6f9aabaa3a8,Kathleen Todd,3,3.7,70,78,11.43
+c36a4162-da59-4d3e-a0fe-9e1b79101825,Shirley Robbins,10,2,Melvinburgh,"Physics, Biology, History",2021-08-02,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,90,93,3.33
+2367ad9e-8dcd-4d64-b9e8-e4ee8b7f6d7a,Daniel Perez,12,9,Port Trevor,"History, Chemistry, Biology",2022-06-13,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,77,84,9.09
+3e581dd5-eed1-4368-9811-6722277dfc7b,Tara Morgan,11,2,North Erin,History,2023-04-22,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,54,58,7.41
+0a9d499c-a269-4c2d-a14f-1ddc4bc972ce,Jeffrey Fleming,14,12,Nicholasborough,"English, Math, Geography",2022-12-13,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,98,99,1.02
+ef6ed981-be23-4d25-ac78-8719d9371f2a,Melissa Brown,8,8,North Matthewburgh,"History, Science",2022-04-06,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,84,92,9.52
+03cb8f1e-9b9a-4bf5-8a78-491f02115503,Tiffany Beasley,16,2,Cruzfort,"Chemistry, Physics",2020-03-25,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,50,54,8.0
+4815642c-a2bb-4283-bd83-ad7c39f706d4,Vincent Bell,15,3,South Steven,"Science, History, Chemistry",2021-03-04,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,82,94,14.63
+675e0c52-1eb9-4739-b8ac-dd816522ff46,Anthony Nelson,10,7,West Erinshire,"History, Physics, Math",2022-06-19,ee9d0e10-f9d7-479d-bd0b-fd3ba7d8baef,Peggy White,14,4.0,71,98,38.03
+06dc1579-6476-40a1-b6a6-59ef24eac3f4,Monica Bray,14,12,Middletonmouth,"Science, English, Biology",2023-12-06,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,99,99,0.0
+62fda854-775e-4ec3-9c9d-03f309018aee,Brian Osborne,16,2,North Carmenberg,Biology,2022-10-03,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,63,65,3.17
+a4e0ee5b-1638-425c-8d66-65d8edf2a720,Felicia Hunter,18,4,Williamsville,Science,2022-04-14,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,64,80,25.0
+e0dd0541-7218-4a39-963a-7486be216476,Kristina Winters,8,11,New Stephanie,"Science, History",2020-10-04,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,54,98,81.48
+c74dd25c-6dbf-459c-837d-975248f3531c,Michelle Shah DDS,11,6,Veronicaborough,"History, Science, Geography",2023-09-03,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,67,70,4.48
+92f078b8-2269-4227-8513-d91e48622a67,Christine Garcia,10,8,Figueroaview,Physics,2022-06-27,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,55,95,72.73
+033c1469-4f06-4a18-b4a2-64447d3c279b,Kristi Martin,13,9,Lambfort,History,2022-09-02,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,64,96,50.0
+5a505a98-45c5-4e39-881d-0ee198082cf3,Sheila Cruz,7,4,Jackburgh,Physics,2024-03-21,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,89,93,4.49
+23f3e5ae-d1de-4fa8-a1c5-63425033b5a4,James Riley,9,9,North Jason,"Physics, English, Chemistry",2020-03-26,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,55,89,61.82
+8d4e2753-ef26-45b7-8e49-df560b648acd,Joel Hardy,10,2,Port Robertfort,History,2023-12-01,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,53,91,71.7
+ac73189c-6fdc-4e00-a0d9-da583db4cb81,Amanda Houston,10,1,Charlesmouth,Chemistry,2022-09-11,140895d0-281b-4255-8fc7-6634cea323b4,Peter Boyer,8,5.0,73,88,20.55
+b5f767d3-2111-49a5-baaa-d22c8c372aad,Keith Ferguson,12,9,Bradshawport,Science,2020-10-21,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,70,88,25.71
+bd03c81f-7ff3-4029-92bd-db3b649ec503,Henry Perkins,11,6,Lake Angelburgh,"Math, Biology, Chemistry",2020-02-14,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,93,99,6.45
+6239f30a-7052-4bb6-90c6-735014b3f264,Kimberly Arnold,17,11,East Douglasfurt,"Biology, History, Geography",2024-05-07,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,98,100,2.04
+a8294aab-afaf-4b68-a05b-f9e7c42b43fa,Patricia Rodriguez,7,4,Port Jacobfort,"English, Biology",2022-07-03,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,52,71,36.54
+b5c99b49-751f-4e54-a0e7-74869ed9c124,Lance King,18,1,Johnsonton,"History, Math, Geography",2024-03-22,08153b1f-f77b-4c86-aa32-49e632ab7704,Nicole Macdonald,12,4.2,68,68,0.0
+849648e8-5084-440f-bb8f-5fc77c96eefa,Anna Stewart,7,10,Port Tammy,Geography,2020-05-31,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,64,83,29.69
+b5b85fb3-c5b0-43c8-a038-c8f68cb12015,Laura Douglas,18,4,Christinahaven,"Math, Chemistry",2023-07-16,64d2a318-4388-438a-82bc-a728ec207495,Marie Larson,20,3.8,93,98,5.38
+e9e7e1ba-916b-41ee-afae-feda6b325d48,Michelle Nielsen,8,1,Williamside,"Science, Math",2023-05-28,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,53,54,1.89
+03cb8f1e-9b9a-4bf5-8a78-491f02115503,Tiffany Beasley,16,2,Cruzfort,"Chemistry, Physics",2020-03-25,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,85,89,4.71
+882ab925-80b2-4b0c-aa24-65cf16c2b4aa,Barbara Watkins,11,10,Barajasburgh,Math,2022-07-10,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,98,100,2.04
+970a06dc-f444-4dae-9d21-ae7c60252b8d,Anna Phelps,6,6,Thomasview,"Physics, Biology",2021-08-29,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,92,100,8.7
+039d60ba-9c99-4735-95a6-52a708fce7af,Brian Joseph,9,4,New Angela,"History, Geography, Biology",2023-10-27,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,61,88,44.26
+c4be5a7f-a15d-41c9-9536-99654f4f5a26,David Reyes,18,6,Brewerhaven,"Chemistry, Math",2023-02-17,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,71,90,26.76
+a9452a96-a123-4c72-89ac-e04913bd01ae,Cole Guzman,7,6,Ericberg,"Biology, History, Chemistry",2023-08-27,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,90,96,6.67
+90ec8374-6862-4c24-a13a-6ad812b34a24,Tracy Reynolds,6,7,Sanchezfurt,"History, Geography, Physics",2021-11-30,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,57,60,5.26
+03cb8f1e-9b9a-4bf5-8a78-491f02115503,Tiffany Beasley,16,2,Cruzfort,"Chemistry, Physics",2020-03-25,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,74,98,32.43
+ce65b211-a3c9-48d7-aceb-18652fc339b9,Jason Arroyo,11,7,West Michael,History,2022-09-02,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,68,89,30.88
+43fd46ff-d034-49a4-aca7-23c48f4ed442,Dean Graves,13,6,Kimberlyhaven,Chemistry,2023-11-19,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,50,78,56.0
+56525ce0-3725-4d0c-b9c4-5c38b440ffe0,Andrew Martin,11,6,West Diamondberg,"Math, Chemistry",2020-07-16,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,79,85,7.59
+e5e6190b-28da-4b89-8130-8a09cddd03bb,David Espinoza,11,6,Fisherburgh,"Biology, Physics, Chemistry",2023-07-26,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,73,83,13.7
+de6d2d7e-9f31-4acb-a362-dbc180245320,Sara Lyons,10,1,West Johnburgh,"Science, Geography",2022-02-05,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,100,100,0.0
+abf0f4bd-4af0-46fe-9bbd-d1f416f14aad,David Kelly,14,12,Morganfort,"English, Math, Biology",2023-05-04,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,80,86,7.5
+3a6f36fa-2418-43ef-b99f-de337a2be049,Ian Tucker,10,11,Port Alexandra,Biology,2020-09-29,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,52,80,53.85
+421aa15e-f58c-43ce-b51d-70d8582dd972,Vincent Cox,14,2,Woodwardport,"Chemistry, Science, Math",2022-10-12,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,95,99,4.21
+e583847f-852d-4ee5-8061-fd30d9073286,Jennifer Herrera,6,6,East Sarah,"Math, Chemistry",2023-04-01,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,91,98,7.69
+606e8502-002f-4cc4-896b-fafff5b7751f,Tony Dominguez,17,5,East Kimberly,Geography,2021-05-08,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,68,78,14.71
+033c1469-4f06-4a18-b4a2-64447d3c279b,Kristi Martin,13,9,Lambfort,History,2022-09-02,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,64,65,1.56
+e389adef-4d1d-4659-8736-e1668042e02f,Joshua Roberts,12,8,East Samanthaville,Biology,2021-05-26,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,64,98,53.12
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,94,98,4.26
+14dbad22-15ea-49d2-9e3d-59d070aaf525,Ronald Moore,15,5,South Cheyenne,History,2023-08-19,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,70,96,37.14
+e689e5e8-87c4-4eb8-8f8e-3e0103c8e104,John Johnson,15,4,Sarahton,"Chemistry, Physics",2023-11-17,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,88,95,7.95
+2f120554-4a53-48cc-bdfa-bc08935ddd72,Cody Salazar,10,6,Thomasland,Math,2021-02-08,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,73,99,35.62
+4cea2df0-0a66-4c4e-a168-1081399f8a8f,Ryan Rivera,14,3,Port Eduardo,"English, Geography, Physics",2023-12-02,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,94,98,4.26
+a9452a96-a123-4c72-89ac-e04913bd01ae,Cole Guzman,7,6,Ericberg,"Biology, History, Chemistry",2023-08-27,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,96,96,0.0
+4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Gary Hatfield,12,8,Reyeschester,"Geography, Chemistry",2022-03-30,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,62,69,11.29
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,93,96,3.23
+84eaf943-2ee6-4e21-93fb-2ed1b9534807,Michelle Wheeler,8,11,Hernandezfort,"Biology, Physics",2021-10-24,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,66,73,10.61
+67f8ab57-0572-4bb5-8bee-2ebdb44788bd,Scott Richards,13,11,Fernandeztown,"Math, Science, History",2021-02-27,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,51,58,13.73
+ae9e8d03-8498-4111-b71a-239070c742d0,Adam Young,7,12,Davisview,"History, Biology, Physics",2022-06-20,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,51,98,92.16
+c74dd25c-6dbf-459c-837d-975248f3531c,Michelle Shah DDS,11,6,Veronicaborough,"History, Science, Geography",2023-09-03,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,51,99,94.12
+e389adef-4d1d-4659-8736-e1668042e02f,Joshua Roberts,12,8,East Samanthaville,Biology,2021-05-26,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,90,99,10.0
+169e98ce-a771-4b3c-9f11-8a429cd3a795,Chad Dorsey,6,1,Port Andrew,"History, Biology, English",2022-05-28,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,71,88,23.94
+2b12c92c-6256-4a95-9487-b5c3b7626f49,Matthew Mcdaniel,17,7,South Sarah,"Geography, Math",2021-04-03,140895d0-281b-4255-8fc7-6634cea323b4,Peter Boyer,8,5.0,86,94,9.3
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,53,85,60.38
+e8a14cd3-28a3-438c-8ba4-d5e24718e12c,Trevor Taylor,16,10,West Tyler,English,2022-07-31,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,53,95,79.25
+3d792fa1-2284-47a4-87e7-f5938b5885ca,Karen Bishop,13,1,Brittanyberg,"Chemistry, English",2022-08-22,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,60,74,23.33
+fa7199d6-53e8-4886-9411-723a50b417eb,Randy Grimes,16,5,New Russell,Physics,2022-01-07,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,75,84,12.0
+c110412c-3843-4ed6-a586-94b6113c1836,Christopher Mayer,12,12,Zimmermanborough,"Physics, Math, Geography",2023-02-16,b97155a0-d334-4b0a-a96e-77d2ea853efa,Mark Montoya,6,4.1,65,84,29.23
+52722246-257e-4412-a215-74899fbd4b9f,Ryan Scott,14,11,New Janet,"Biology, History",2020-12-22,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,87,97,11.49
+0d3dc6aa-dba4-4b5e-9498-665b79fe0a1b,Jennifer Bowers,16,5,Anthonyhaven,"English, Chemistry, Biology",2020-10-24,ee9d0e10-f9d7-479d-bd0b-fd3ba7d8baef,Peggy White,14,4.0,60,66,10.0
+01ed02db-d663-4406-a90a-f02131d4f7df,Ryan Zimmerman,6,10,South Nicole,"English, Biology, Science",2022-04-02,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,99,99,0.0
+a9452a96-a123-4c72-89ac-e04913bd01ae,Cole Guzman,7,6,Ericberg,"Biology, History, Chemistry",2023-08-27,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,83,95,14.46
+98c75205-1e01-4934-802d-0baf878b9f6b,Mary Smith,7,6,Mcculloughhaven,Geography,2022-08-25,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,89,97,8.99
+0063b5c9-24fa-4196-b801-59870008cccf,Paul Chavez,14,2,East Nicholas,"Geography, History, English",2023-12-03,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,70,70,0.0
+039d60ba-9c99-4735-95a6-52a708fce7af,Brian Joseph,9,4,New Angela,"History, Geography, Biology",2023-10-27,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,59,75,27.12
+33e9e55e-4024-42a3-8334-f55802cee581,Jasmine Rowe,17,4,Terryton,"Physics, Geography",2023-12-16,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,53,77,45.28
+82f4b48a-78a5-4d6b-b2de-d00f63e86951,Jason Sullivan,6,11,Lake Teresaberg,"Chemistry, Math, Physics",2020-01-16,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,100,100,0.0
+c110412c-3843-4ed6-a586-94b6113c1836,Christopher Mayer,12,12,Zimmermanborough,"Physics, Math, Geography",2023-02-16,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,59,87,47.46
+310dfbf4-d741-4ae8-8fa7-1765e757155d,Edward Terry,17,10,Fosterberg,Geography,2023-10-01,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,63,67,6.35
+d181d9bf-aa09-4a46-b25a-3c68e8ef99e9,Deanna Salazar,8,10,New Sharonview,"Biology, Chemistry",2021-06-24,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,68,98,44.12
+3e70f16a-5548-4822-9e1b-372ad3fbf47a,Michele Brown,8,5,East Linda,"History, Geography",2021-03-18,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,81,87,7.41
+b4577bf7-a251-40a8-9870-c707955fbc33,Dr. Ashley Maxwell,7,2,New Dawn,"History, Science",2024-05-14,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,61,93,52.46
+3d792fa1-2284-47a4-87e7-f5938b5885ca,Karen Bishop,13,1,Brittanyberg,"Chemistry, English",2022-08-22,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,75,100,33.33
+ae9e8d03-8498-4111-b71a-239070c742d0,Adam Young,7,12,Davisview,"History, Biology, Physics",2022-06-20,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,77,82,6.49
+4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Gary Hatfield,12,8,Reyeschester,"Geography, Chemistry",2022-03-30,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,93,93,0.0
+0d20f686-854d-49b6-ab66-b1c05fdd5329,Robert Reyes,7,9,North Kyle,Math,2021-07-21,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,68,76,11.76
+0d3dc6aa-dba4-4b5e-9498-665b79fe0a1b,Jennifer Bowers,16,5,Anthonyhaven,"English, Chemistry, Biology",2020-10-24,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,88,92,4.55
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,79,93,17.72
+3e70f16a-5548-4822-9e1b-372ad3fbf47a,Michele Brown,8,5,East Linda,"History, Geography",2021-03-18,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,82,83,1.22
+e8a14cd3-28a3-438c-8ba4-d5e24718e12c,Trevor Taylor,16,10,West Tyler,English,2022-07-31,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,66,67,1.52
+3e332f35-086c-4768-b0fe-3cfc991ab513,Larry Stewart DDS,6,7,North Bryanbury,"Biology, Chemistry, Geography",2023-10-09,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,98,100,2.04
+b4fbf350-24bf-4792-b9fa-33cd035e4eb9,Pamela Thomas,11,11,Port Kathryn,"Chemistry, History",2021-07-04,b8ecfe83-3a61-4c6c-a6ab-5199de931896,Shannon Trujillo,15,3.8,57,64,12.28
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,98,100,2.04
+4815642c-a2bb-4283-bd83-ad7c39f706d4,Vincent Bell,15,3,South Steven,"Science, History, Chemistry",2021-03-04,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,90,90,0.0
+a6245b59-8c94-4f98-b338-6c3e1af4787f,James Frank,17,4,Rodriguezton,"Geography, History, English",2023-12-22,c6eb245e-4b7b-427a-a20e-222447d35352,Gloria Gutierrez,11,4.8,79,88,11.39
+a358cb1d-be3f-4afd-8e96-ed9b5d158e44,Crystal Evans,18,5,Lake Mistyport,"English, Science, Geography",2023-01-01,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,54,79,46.3
+2f120554-4a53-48cc-bdfa-bc08935ddd72,Cody Salazar,10,6,Thomasland,Math,2021-02-08,c317310d-db21-41c5-9551-d5e34f47bc94,Chelsea Banks,2,3.8,89,98,10.11
+84eaf943-2ee6-4e21-93fb-2ed1b9534807,Michelle Wheeler,8,11,Hernandezfort,"Biology, Physics",2021-10-24,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,67,87,29.85
+9cf600ec-1c3c-4d35-a1d4-fb7e22587c89,Andre Ray,13,11,Jonesland,"English, Science",2023-08-14,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,75,90,20.0
+afb120f4-14d4-4ad6-9dfa-e808afd86432,Tammy Foster,18,8,Blaketown,History,2022-04-19,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,88,88,0.0
+29c836e0-3130-4e46-af79-75467e5168dc,Ryan Robbins,8,9,Gonzalesmouth,"Math, English",2023-12-26,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,56,99,76.79
+ecadbb86-f16f-4487-b7f2-1e5cce0755e3,Michael Patel,7,7,Franciscoberg,Science,2022-10-24,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,64,81,26.56
+99c7abea-6756-464d-8864-9f787eaf1679,Christopher Kramer,13,3,South Davidtown,Chemistry,2024-02-01,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,85,94,10.59
+793910e6-56e1-4c2b-a59b-adcb9bcae27d,Charles Cardenas,10,1,Michaelfurt,"Science, Math, Physics",2023-05-14,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,84,93,10.71
+5567a84c-1480-4037-939a-4bb0d62b68d4,Brett Donaldson,14,6,New Connie,Physics,2022-06-10,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,88,88,0.0
+3e70f16a-5548-4822-9e1b-372ad3fbf47a,Michele Brown,8,5,East Linda,"History, Geography",2021-03-18,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,61,83,36.07
+796f9881-572a-4b53-ab6b-7b4229502326,Kevin Ferrell,15,9,Kathleenville,"Science, Geography, Physics",2023-02-18,48ef09a4-b8c0-4ce8-80a0-864341cb57da,Jose Porter,4,4.9,76,78,2.63
+ce749e8a-f4e1-480b-85a0-2c72f22a4fc6,Natalie Massey,15,3,Lake Christian,Chemistry,2020-11-18,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,90,94,4.44
+39b66d71-951a-4518-87e7-7e2b6b291a13,Erik Stokes,11,3,Prestonville,Science,2023-08-09,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,82,87,6.1
+e5e6190b-28da-4b89-8130-8a09cddd03bb,David Espinoza,11,6,Fisherburgh,"Biology, Physics, Chemistry",2023-07-26,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,59,71,20.34
+849648e8-5084-440f-bb8f-5fc77c96eefa,Anna Stewart,7,10,Port Tammy,Geography,2020-05-31,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,77,90,16.88
+feeac13d-5813-42c2-a33e-383454e27ea6,Lisa Butler PhD,13,7,West Ashleyhaven,Physics,2020-08-21,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,85,95,11.76
+d95e17e1-900f-42f7-8f4b-4ed5ac1d02e8,Jennifer Johnson,13,6,Jamesfurt,"English, Geography",2020-07-18,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,55,67,21.82
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,84,86,2.38
+89421c6d-764a-4510-9acb-a5888397d412,Denise Smith,10,1,East Jessicabury,"Physics, Math",2021-11-08,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,69,89,28.99
+8be04c3e-5c94-4381-a0c6-b3ed755a3ac1,Ashley Carlson,6,9,Hernandezfurt,"Geography, Physics",2023-08-07,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,84,91,8.33
+67f8ab57-0572-4bb5-8bee-2ebdb44788bd,Scott Richards,13,11,Fernandeztown,"Math, Science, History",2021-02-27,48ef09a4-b8c0-4ce8-80a0-864341cb57da,Jose Porter,4,4.9,79,82,3.8
+d2fb05ca-3a72-4b9f-96fb-5c72ed6a1bfc,Taylor Williams,14,9,Courtneyshire,"Math, English",2024-02-15,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,67,78,16.42
+606e8502-002f-4cc4-896b-fafff5b7751f,Tony Dominguez,17,5,East Kimberly,Geography,2021-05-08,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,100,100,0.0
+03729e33-c550-4d2b-909e-7f7862f25291,Kevin Mcdaniel,11,4,East Andrew,"Math, English, Science",2022-10-01,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,67,97,44.78
+6239f30a-7052-4bb6-90c6-735014b3f264,Kimberly Arnold,17,11,East Douglasfurt,"Biology, History, Geography",2024-05-07,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,80,89,11.25
+df14c612-5f58-45b5-af79-0959a3e04b3b,Christine Matthews,15,12,East Edwardmouth,"Math, Biology",2022-11-14,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,96,100,4.17
+033c1469-4f06-4a18-b4a2-64447d3c279b,Kristi Martin,13,9,Lambfort,History,2022-09-02,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,56,92,64.29
+90ec8374-6862-4c24-a13a-6ad812b34a24,Tracy Reynolds,6,7,Sanchezfurt,"History, Geography, Physics",2021-11-30,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,90,92,2.22
+d4ce14b3-9a9a-46bc-b26e-a68df4e35152,Justin Miller,18,12,Haleychester,"Math, History",2022-09-03,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,56,91,62.5
+18711121-c9e8-460c-8a8f-541d052ba051,Monica Davis,7,8,Mckinneyshire,"Chemistry, Science, English",2021-09-06,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,71,93,30.99
+e53428bb-b20e-4719-a6b9-b21b94291726,Megan Sherman,7,11,East Ryan,"Chemistry, History, Biology",2022-04-03,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,98,100,2.04
+b287c440-7881-407d-ae77-1359677abeb7,Amy Fletcher,18,7,Jamesberg,Science,2021-11-18,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,99,99,0.0
+b29a8b06-daf6-4c5f-a577-bffac87a7463,Robert Walters,18,11,North Davidborough,Chemistry,2021-01-06,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,79,96,21.52
+c1b5468a-27bb-4580-a8f5-8c5dffa08419,Kristen Johnson,8,6,Lake William,"Biology, History",2022-09-09,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,63,98,55.56
+6af79ad2-993e-48c6-a6b1-06e289110af0,Karen Gibbs,6,3,Lawsonbury,"Geography, Math, Biology",2020-03-04,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,87,91,4.6
+31610b3d-1257-463c-b25d-cb50d15b5985,Joyce Allen,12,9,Boydmouth,"History, Geography",2021-02-23,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,53,77,45.28
+ef6ed981-be23-4d25-ac78-8719d9371f2a,Melissa Brown,8,8,North Matthewburgh,"History, Science",2022-04-06,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,76,87,14.47
+4ae302f3-b31e-4be8-a3ef-802edf8693ce,Cristina Walton,9,6,Jameschester,"English, Biology, History",2023-12-02,783d4a6d-4d4e-4e29-99c5-e64cb8c6773e,Elizabeth Meyers,6,4.2,61,71,16.39
+4598244b-f0bd-4405-a50d-d400a27ee80d,Stephen Ayala,14,10,Christophertown,Physics,2024-03-10,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,92,100,8.7
+ebba80d2-820b-451d-9b3a-efa6c7d02862,Allison Day,11,5,New Robert,"Geography, Science",2021-10-08,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,96,96,0.0
+b61b03e9-cb60-4efc-847e-330e99b702a2,Thomas Mcintosh,8,8,Brownstad,"Geography, Math",2022-03-05,302d6194-ee55-4e17-9e5d-d6f9aabaa3a8,Kathleen Todd,3,3.7,58,58,0.0
+9bc69882-5a7c-431a-a275-9469c28d2ad5,Lori Lester,11,1,New Maryhaven,"Math, Physics, Science",2023-01-19,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,80,89,11.25
+e389adef-4d1d-4659-8736-e1668042e02f,Joshua Roberts,12,8,East Samanthaville,Biology,2021-05-26,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,64,81,26.56
+20d5c16e-9611-49cf-bfbd-fd47dc7972f0,Mr. Richard Reed,9,5,East Heather,"Math, English",2021-12-16,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,66,85,28.79
+67f8ab57-0572-4bb5-8bee-2ebdb44788bd,Scott Richards,13,11,Fernandeztown,"Math, Science, History",2021-02-27,e412eb0b-d260-430d-aedc-5fdd27ef0967,Benjamin Garcia DVM,9,4.2,100,100,0.0
+af273f40-55cd-472e-8b10-cf68b7691470,Victor Bond,10,1,Ayalaview,Geography,2021-05-06,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,91,98,7.69
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,55,60,9.09
+f45aa79b-d855-4b35-9763-b159ed9a189a,Emily Whitehead,12,6,Richardberg,"Chemistry, English, Math",2021-04-03,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,86,89,3.49
+120a202f-e11a-45c3-a5ef-c3a9503a65d5,Andrew Newman,6,12,Lake Carlosview,"History, Geography",2022-07-29,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,72,81,12.5
+1de4ead3-362b-4eea-bdb6-3f3243cec809,Brenda Moon,14,1,Gileston,History,2022-07-17,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,78,80,2.56
+67af36d9-af04-4f81-b548-1bf2702cebbe,Kevin Gillespie,6,5,South Annette,English,2023-03-11,64d2a318-4388-438a-82bc-a728ec207495,Marie Larson,20,3.8,50,62,24.0
+a8294aab-afaf-4b68-a05b-f9e7c42b43fa,Patricia Rodriguez,7,4,Port Jacobfort,"English, Biology",2022-07-03,1744bed8-cc2f-4e64-8b31-ec7eab39109c,James Thompson,4,4.7,63,94,49.21
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,63,74,17.46
+47b3df41-67c2-4355-8312-1af68b32992a,Alison Nelson,10,3,North Jonathanhaven,"History, Chemistry",2023-05-16,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,96,100,4.17
+889c8ae2-4e3c-4f2d-8332-559dcad00273,Joseph Wright,7,1,North Robert,"Biology, Geography, History",2022-06-19,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,77,100,29.87
+92d6ff73-5b3a-4595-8458-92c14e0e15d3,Morgan Hernandez,12,9,South Courtneytown,Physics,2022-01-20,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,87,99,13.79
+b29a8b06-daf6-4c5f-a577-bffac87a7463,Robert Walters,18,11,North Davidborough,Chemistry,2021-01-06,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,100,100,0.0
+8be04c3e-5c94-4381-a0c6-b3ed755a3ac1,Ashley Carlson,6,9,Hernandezfurt,"Geography, Physics",2023-08-07,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,50,92,84.0
+b341facd-ff0a-40f1-a425-799aa905d750,Rebecca Miller,18,11,South Brendamouth,"Biology, Physics, History",2021-08-14,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,77,86,11.69
+735b3a80-3fbd-4eed-b23d-c8f5b17078ee,Stephanie Stanley,6,8,Alexanderberg,"Geography, Chemistry, Physics",2022-12-27,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,78,90,15.38
+bda17da2-000f-463d-a2a0-1335a83023ab,Jonathon Scott,14,9,South Michelleport,Science,2023-06-21,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,77,84,9.09
+9bd23ec5-21f9-4354-a776-eb3783f07d7c,Trevor Jackson Jr.,7,11,Joseville,Biology,2020-04-06,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,70,80,14.29
+20d5c16e-9611-49cf-bfbd-fd47dc7972f0,Mr. Richard Reed,9,5,East Heather,"Math, English",2021-12-16,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,94,97,3.19
+d4ce14b3-9a9a-46bc-b26e-a68df4e35152,Justin Miller,18,12,Haleychester,"Math, History",2022-09-03,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,58,90,55.17
+882ab925-80b2-4b0c-aa24-65cf16c2b4aa,Barbara Watkins,11,10,Barajasburgh,Math,2022-07-10,ee9d0e10-f9d7-479d-bd0b-fd3ba7d8baef,Peggy White,14,4.0,72,81,12.5
+3f739143-24dc-4a5a-b888-cb6597b19d4f,Christy Flores,12,6,Port Johnshire,"English, Geography, Chemistry",2024-06-01,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,86,98,13.95
+e00111e5-d29d-45df-8f1d-a1100cc36d8c,Jennifer Dunn,8,10,Port Jessicatown,Chemistry,2023-06-02,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,77,87,12.99
+1624d318-a326-42e8-a1ab-17c0766229cc,Mr. Aaron Hale,16,10,Smithport,"History, Geography",2020-12-21,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,61,96,57.38
+849648e8-5084-440f-bb8f-5fc77c96eefa,Anna Stewart,7,10,Port Tammy,Geography,2020-05-31,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,90,90,0.0
+4cea2df0-0a66-4c4e-a168-1081399f8a8f,Ryan Rivera,14,3,Port Eduardo,"English, Geography, Physics",2023-12-02,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,58,84,44.83
+5050f32c-d406-4cce-b73a-13fb37503d77,Mrs. Mary Hammond,18,11,Lake Loriport,Math,2022-10-01,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,64,69,7.81
+b2c92c12-9bd9-4220-b38f-4acf66270136,Hannah Adams,11,12,Terriside,"Geography, Science, Chemistry",2021-09-15,302d6194-ee55-4e17-9e5d-d6f9aabaa3a8,Kathleen Todd,3,3.7,56,60,7.14
+db0dff11-1a6c-4c25-98e1-6bc0338589c7,Riley Smith,14,1,East Christine,"Physics, English",2023-01-24,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,63,89,41.27
+df14c612-5f58-45b5-af79-0959a3e04b3b,Christine Matthews,15,12,East Edwardmouth,"Math, Biology",2022-11-14,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,77,91,18.18
+0d3dc6aa-dba4-4b5e-9498-665b79fe0a1b,Jennifer Bowers,16,5,Anthonyhaven,"English, Chemistry, Biology",2020-10-24,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,100,100,0.0
+889c8ae2-4e3c-4f2d-8332-559dcad00273,Joseph Wright,7,1,North Robert,"Biology, Geography, History",2022-06-19,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,63,84,33.33
+beebb4ea-eab9-421b-8b36-b545cca1a034,Melanie Patrick,11,1,North Kimberly,"Geography, Chemistry",2023-10-13,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,84,98,16.67
+a83299e9-fae4-4529-ba9f-cece50ed6af2,Katelyn Olson,8,11,Josephland,"Math, Physics",2023-11-26,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,91,92,1.1
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,68,87,27.94
+d2ebe96b-24b7-4424-a4ed-458b010ac3f8,Kenneth Smith,13,8,East Todd,"Physics, Biology, Science",2020-05-07,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,54,77,42.59
+e0f24eb3-af58-4381-89ac-2f36b202054f,Christy Johnson,14,9,Lutzburgh,"Math, Geography",2023-10-04,7f571b98-2bc3-4de0-9d08-20e0a24921ff,Keith Watkins,16,4.1,85,90,5.88
+8d4e2753-ef26-45b7-8e49-df560b648acd,Joel Hardy,10,2,Port Robertfort,History,2023-12-01,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,89,92,3.37
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,81,88,8.64
+14dbad22-15ea-49d2-9e3d-59d070aaf525,Ronald Moore,15,5,South Cheyenne,History,2023-08-19,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,100,100,0.0
+25323fd3-c9f3-4bf8-8d03-cbddcc869dea,William Stephens,7,7,East Michelle,"English, Chemistry",2023-07-20,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,52,65,25.0
+17fd3736-b7ef-441c-9e00-ea6dca24be4d,Marc Williams,15,1,East Tina,"Science, Chemistry",2022-06-18,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,97,99,2.06
+0ea255e0-8e50-479a-8582-644479faf501,Samantha Cooper,9,5,North Ronaldstad,"Chemistry, Physics, English",2023-11-04,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,62,97,56.45
+0212585b-0b2f-4580-b3f0-53233bd5f8a2,Aaron Wilson,15,2,North Joyce,"Geography, English",2021-09-06,b97155a0-d334-4b0a-a96e-77d2ea853efa,Mark Montoya,6,4.1,98,99,1.02
+e583847f-852d-4ee5-8061-fd30d9073286,Jennifer Herrera,6,6,East Sarah,"Math, Chemistry",2023-04-01,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,52,80,53.85
+797c27bf-c793-4520-9c92-1e7f9aa1ecd6,Desiree Carr,10,6,Maynardville,Physics,2020-05-31,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,61,88,44.26
+a8ab29f1-1033-4310-ab7b-de99878f40ed,Lauren David,7,11,Fischerview,History,2022-08-25,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,58,72,24.14
+f7f1bb27-8066-4563-a0c3-0ce957ac59f2,Michael Barr,15,5,Jimmyfurt,Science,2022-12-12,783d4a6d-4d4e-4e29-99c5-e64cb8c6773e,Elizabeth Meyers,6,4.2,62,80,29.03
+6c0be55c-90e6-49e1-a44f-c3a96d0c62c3,Taylor Perry,11,6,South Kimtown,"Geography, History, Math",2023-10-19,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,78,100,28.21
+69560c06-3008-4519-ad83-095163eaa005,Christopher Williams DVM,15,6,Pamhaven,Math,2021-08-05,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,76,91,19.74
+2b12c92c-6256-4a95-9487-b5c3b7626f49,Matthew Mcdaniel,17,7,South Sarah,"Geography, Math",2021-04-03,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,53,91,71.7
+f6aca9b4-5e14-4c30-bd2c-db8d39ebfa32,Peter Hall,12,1,Lake Kimberly,"Science, Chemistry",2023-01-20,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,99,99,0.0
+e9e7e1ba-916b-41ee-afae-feda6b325d48,Michelle Nielsen,8,1,Williamside,"Science, Math",2023-05-28,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,56,85,51.79
+d2fb05ca-3a72-4b9f-96fb-5c72ed6a1bfc,Taylor Williams,14,9,Courtneyshire,"Math, English",2024-02-15,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,94,99,5.32
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,90,99,10.0
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Christopher Howard,16,3,Lake Leah,Science,2024-03-23,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,94,100,6.38
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,62,74,19.35
+43fd46ff-d034-49a4-aca7-23c48f4ed442,Dean Graves,13,6,Kimberlyhaven,Chemistry,2023-11-19,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,81,97,19.75
+141bd896-6092-4d2b-8122-9d756a8d3e84,Gabriela Short,18,5,South John,Biology,2024-02-02,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,64,78,21.88
+f172840f-3e19-40ba-ae09-ccfba3dee81f,Lori Dougherty,8,8,Benjaminfurt,"Science, English, History",2020-05-17,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,90,93,3.33
+25323fd3-c9f3-4bf8-8d03-cbddcc869dea,William Stephens,7,7,East Michelle,"English, Chemistry",2023-07-20,64d2a318-4388-438a-82bc-a728ec207495,Marie Larson,20,3.8,91,92,1.1
+de6d2d7e-9f31-4acb-a362-dbc180245320,Sara Lyons,10,1,West Johnburgh,"Science, Geography",2022-02-05,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,98,99,1.02
+feeac13d-5813-42c2-a33e-383454e27ea6,Lisa Butler PhD,13,7,West Ashleyhaven,Physics,2020-08-21,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,64,72,12.5
+0f013f4e-7396-4f8e-baa8-3536d3d779d5,David Russell,15,2,West Deniseborough,"Physics, Geography",2020-10-03,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,55,95,72.73
+796f9881-572a-4b53-ab6b-7b4229502326,Kevin Ferrell,15,9,Kathleenville,"Science, Geography, Physics",2023-02-18,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,71,95,33.8
+95d18051-42cb-4d1d-bfc5-73d5fd0ba70e,Jessica Howard,10,5,Port Michelletown,"Geography, English, Math",2023-11-04,08153b1f-f77b-4c86-aa32-49e632ab7704,Nicole Macdonald,12,4.2,78,100,28.21
+735b3a80-3fbd-4eed-b23d-c8f5b17078ee,Stephanie Stanley,6,8,Alexanderberg,"Geography, Chemistry, Physics",2022-12-27,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,65,74,13.85
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,74,86,16.22
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,75,98,30.67
+2ea60b99-fa7f-48bf-b044-284a47acf2f6,Scott Sanders,10,9,North Joshuamouth,Geography,2020-12-25,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,51,96,88.24
+5419eefc-d5e7-4e3f-a736-17d94d7bd307,Brian Hoffman,6,8,Wellsmouth,"Physics, Science, History",2021-01-21,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,92,95,3.26
+82f4b48a-78a5-4d6b-b2de-d00f63e86951,Jason Sullivan,6,11,Lake Teresaberg,"Chemistry, Math, Physics",2020-01-16,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,83,86,3.61
+20d5c16e-9611-49cf-bfbd-fd47dc7972f0,Mr. Richard Reed,9,5,East Heather,"Math, English",2021-12-16,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,69,77,11.59
+0063b5c9-24fa-4196-b801-59870008cccf,Paul Chavez,14,2,East Nicholas,"Geography, History, English",2023-12-03,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,73,81,10.96
+afb120f4-14d4-4ad6-9dfa-e808afd86432,Tammy Foster,18,8,Blaketown,History,2022-04-19,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,93,100,7.53
+7d5d9031-e80b-47eb-a499-99cf87e51bbc,Joshua Jones,16,1,Goodwinborough,"Science, Geography, English",2023-07-26,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,74,91,22.97
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,93,99,6.45
+028d042b-2d8b-4b41-990e-83da586f1721,Crystal Diaz,14,12,East Aaron,Geography,2021-01-17,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,61,97,59.02
+56525ce0-3725-4d0c-b9c4-5c38b440ffe0,Andrew Martin,11,6,West Diamondberg,"Math, Chemistry",2020-07-16,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,89,89,0.0
+62fda854-775e-4ec3-9c9d-03f309018aee,Brian Osborne,16,2,North Carmenberg,Biology,2022-10-03,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,67,75,11.94
+4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Gary Hatfield,12,8,Reyeschester,"Geography, Chemistry",2022-03-30,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,95,98,3.16
+039d60ba-9c99-4735-95a6-52a708fce7af,Brian Joseph,9,4,New Angela,"History, Geography, Biology",2023-10-27,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,70,83,18.57
+310dfbf4-d741-4ae8-8fa7-1765e757155d,Edward Terry,17,10,Fosterberg,Geography,2023-10-01,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,52,93,78.85
+3e37355e-fbdc-478a-bf33-551df6292535,Joanna Hill,16,9,Dudleyfurt,"Biology, Math",2022-03-13,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,70,90,28.57
+afb120f4-14d4-4ad6-9dfa-e808afd86432,Tammy Foster,18,8,Blaketown,History,2022-04-19,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,52,92,76.92
+3e37355e-fbdc-478a-bf33-551df6292535,Joanna Hill,16,9,Dudleyfurt,"Biology, Math",2022-03-13,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,57,82,43.86
+b0f1bb1d-8e10-4ed6-92d0-72230b20ee0f,Lynn Herring,10,12,Laurenland,Biology,2020-09-07,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,61,74,21.31
+7baf204d-7c6d-44a8-84ee-50715745ef5a,Sonia Barnes,7,12,Lake Destiny,"English, History",2022-12-05,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,51,62,21.57
+e3e70682-c209-4cac-a29f-6fbed82c07cd,David Dixon,13,8,Hullport,Science,2024-01-20,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,55,61,10.91
+4b5ca436-953c-478e-a106-7a8cd7a3283c,Renee Jones,11,9,New Mistyton,"Physics, Chemistry",2020-07-25,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,65,90,38.46
+f6aca9b4-5e14-4c30-bd2c-db8d39ebfa32,Peter Hall,12,1,Lake Kimberly,"Science, Chemistry",2023-01-20,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,86,87,1.16
+09e469e6-ec62-42c8-a648-ee38e07405eb,Stephanie Leblanc,14,3,Masseyhaven,Math,2022-05-06,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,78,95,21.79
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,86,90,4.65
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,73,82,12.33
+50f0fc2b-6ae0-4d52-adb3-28cbf3158c0c,Adrian Fischer,17,7,East Davidborough,Geography,2022-07-28,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,63,63,0.0
+ef6ed981-be23-4d25-ac78-8719d9371f2a,Melissa Brown,8,8,North Matthewburgh,"History, Science",2022-04-06,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,51,75,47.06
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,100,100,0.0
+796f9881-572a-4b53-ab6b-7b4229502326,Kevin Ferrell,15,9,Kathleenville,"Science, Geography, Physics",2023-02-18,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,90,97,7.78
+1624d318-a326-42e8-a1ab-17c0766229cc,Mr. Aaron Hale,16,10,Smithport,"History, Geography",2020-12-21,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,52,97,86.54
+82f4b48a-78a5-4d6b-b2de-d00f63e86951,Jason Sullivan,6,11,Lake Teresaberg,"Chemistry, Math, Physics",2020-01-16,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,78,83,6.41
+47b3df41-67c2-4355-8312-1af68b32992a,Alison Nelson,10,3,North Jonathanhaven,"History, Chemistry",2023-05-16,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,67,93,38.81
+99c7abea-6756-464d-8864-9f787eaf1679,Christopher Kramer,13,3,South Davidtown,Chemistry,2024-02-01,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,73,95,30.14
+03729e33-c550-4d2b-909e-7f7862f25291,Kevin Mcdaniel,11,4,East Andrew,"Math, English, Science",2022-10-01,9bbab50a-969d-4830-9b08-492ec413e9ba,Tyler Parsons,10,4.2,100,100,0.0
+42af9fc3-8577-4e9a-9d84-f39e71545a13,Thomas Moon,9,4,Lake Marytown,History,2024-03-13,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,60,73,21.67
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Christopher Howard,16,3,Lake Leah,Science,2024-03-23,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,71,84,18.31
+ac7c8803-e01b-4f50-b5d9-7ef760ef1471,Jennifer Morales,11,8,Bartonton,"History, Biology, Science",2021-05-29,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,81,89,9.88
+50f0fc2b-6ae0-4d52-adb3-28cbf3158c0c,Adrian Fischer,17,7,East Davidborough,Geography,2022-07-28,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,78,82,5.13
+35045f77-c317-43d4-afa4-f554feb46b24,Kelli Hughes,16,8,Jasonshire,"Chemistry, Biology, Geography",2022-10-20,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,67,87,29.85
+7d5d9031-e80b-47eb-a499-99cf87e51bbc,Joshua Jones,16,1,Goodwinborough,"Science, Geography, English",2023-07-26,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,85,88,3.53
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,63,89,41.27
+7baf204d-7c6d-44a8-84ee-50715745ef5a,Sonia Barnes,7,12,Lake Destiny,"English, History",2022-12-05,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,76,94,23.68
+64348207-3415-44cc-b7fd-7fd135cb60f2,Anne Morales DDS,10,9,Curryburgh,"Math, Biology",2020-04-10,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,57,96,68.42
+f7f1bb27-8066-4563-a0c3-0ce957ac59f2,Michael Barr,15,5,Jimmyfurt,Science,2022-12-12,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,85,86,1.18
+67f8ab57-0572-4bb5-8bee-2ebdb44788bd,Scott Richards,13,11,Fernandeztown,"Math, Science, History",2021-02-27,c6eb245e-4b7b-427a-a20e-222447d35352,Gloria Gutierrez,11,4.8,56,74,32.14
+35045f77-c317-43d4-afa4-f554feb46b24,Kelli Hughes,16,8,Jasonshire,"Chemistry, Biology, Geography",2022-10-20,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,92,97,5.43
+fea2a33a-51d1-4bcd-9a23-754bef38d426,Justin Mitchell,13,10,Lake Kenneth,Physics,2023-10-04,b97155a0-d334-4b0a-a96e-77d2ea853efa,Mark Montoya,6,4.1,56,69,23.21
+4574a37e-9dbf-493f-bc03-1029253053ae,Chad Bridges,17,6,Dicksonburgh,"Physics, Geography",2021-09-09,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,99,100,1.01
+ebba80d2-820b-451d-9b3a-efa6c7d02862,Allison Day,11,5,New Robert,"Geography, Science",2021-10-08,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,78,92,17.95
+e5e6190b-28da-4b89-8130-8a09cddd03bb,David Espinoza,11,6,Fisherburgh,"Biology, Physics, Chemistry",2023-07-26,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,81,81,0.0
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,69,88,27.54
+a6894303-e807-492d-b4ca-0c564d390362,Rachel Lee,10,11,Stephenland,"History, Science, Chemistry",2020-02-26,4d01cc36-0091-4b3d-918b-55fde8968a9f,Nicole Garcia,13,4.8,98,100,2.04
+6239f30a-7052-4bb6-90c6-735014b3f264,Kimberly Arnold,17,11,East Douglasfurt,"Biology, History, Geography",2024-05-07,4d01cc36-0091-4b3d-918b-55fde8968a9f,Nicole Garcia,13,4.8,79,87,10.13
+700b1433-f5d6-4476-a0f1-2d46e775f27e,Paul Fox,17,1,New Johnport,Biology,2022-04-14,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,52,92,76.92
+62fda854-775e-4ec3-9c9d-03f309018aee,Brian Osborne,16,2,North Carmenberg,Biology,2022-10-03,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,92,97,5.43
+0a9d499c-a269-4c2d-a14f-1ddc4bc972ce,Jeffrey Fleming,14,12,Nicholasborough,"English, Math, Geography",2022-12-13,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,77,92,19.48
+64348207-3415-44cc-b7fd-7fd135cb60f2,Anne Morales DDS,10,9,Curryburgh,"Math, Biology",2020-04-10,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,54,55,1.85
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,94,94,0.0
+b287c440-7881-407d-ae77-1359677abeb7,Amy Fletcher,18,7,Jamesberg,Science,2021-11-18,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,55,67,21.82
+6239f30a-7052-4bb6-90c6-735014b3f264,Kimberly Arnold,17,11,East Douglasfurt,"Biology, History, Geography",2024-05-07,c317310d-db21-41c5-9551-d5e34f47bc94,Chelsea Banks,2,3.8,64,66,3.12
+a53011a2-3d74-49ee-a514-1471ea951570,Dr. Benjamin King,7,1,Nicolestad,Math,2020-03-08,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,79,90,13.92
+f20e8bda-39cc-4d88-832f-594d0b82b61c,Andrea Brown,10,7,Taylorborough,"Math, Physics, Science",2023-10-26,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,55,57,3.64
+a4b0c73b-f74e-41a1-a2e5-b72606b9370b,Mark Wise,15,5,Mcdonaldshire,"Science, Geography",2024-05-26,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,59,71,20.34
+b0f1bb1d-8e10-4ed6-92d0-72230b20ee0f,Lynn Herring,10,12,Laurenland,Biology,2020-09-07,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,92,99,7.61
+89421c6d-764a-4510-9acb-a5888397d412,Denise Smith,10,1,East Jessicabury,"Physics, Math",2021-11-08,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,95,99,4.21
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,b97155a0-d334-4b0a-a96e-77d2ea853efa,Mark Montoya,6,4.1,90,98,8.89
+29c836e0-3130-4e46-af79-75467e5168dc,Ryan Robbins,8,9,Gonzalesmouth,"Math, English",2023-12-26,8c662964-801f-4c5f-b21a-11284586ce14,Ashley Gonzales,19,4.2,50,81,62.0
+17fd3736-b7ef-441c-9e00-ea6dca24be4d,Marc Williams,15,1,East Tina,"Science, Chemistry",2022-06-18,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,68,81,19.12
+1e70e799-33a1-41c2-ad4a-b155c09fcd8f,David Davidson DVM,18,12,New Dustin,"English, Biology",2021-09-07,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,66,99,50.0
+af273f40-55cd-472e-8b10-cf68b7691470,Victor Bond,10,1,Ayalaview,Geography,2021-05-06,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,91,98,7.69
+425832c0-142a-4c95-9908-2a42b4480761,James Lee,12,8,Kristenfurt,History,2020-07-02,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,94,98,4.26
+abf0f4bd-4af0-46fe-9bbd-d1f416f14aad,David Kelly,14,12,Morganfort,"English, Math, Biology",2023-05-04,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,55,91,65.45
+181a218e-cfd6-4560-9c05-c1f3241d3e27,Sean Morrow,15,9,New Angelica,Math,2020-01-22,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,94,95,1.06
+04e6748a-7f3a-47dc-b339-0a6ea0b87e45,Danielle Snow,10,1,Jacobchester,English,2020-08-30,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,60,79,31.67
+2ea60b99-fa7f-48bf-b044-284a47acf2f6,Scott Sanders,10,9,North Joshuamouth,Geography,2020-12-25,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,88,96,9.09
+09e469e6-ec62-42c8-a648-ee38e07405eb,Stephanie Leblanc,14,3,Masseyhaven,Math,2022-05-06,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,78,89,14.1
+889c8ae2-4e3c-4f2d-8332-559dcad00273,Joseph Wright,7,1,North Robert,"Biology, Geography, History",2022-06-19,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,58,61,5.17
+9bc69882-5a7c-431a-a275-9469c28d2ad5,Lori Lester,11,1,New Maryhaven,"Math, Physics, Science",2023-01-19,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,51,96,88.24
+8930d179-52ab-493f-91ab-f5e5cb775e24,Frederick Johnson,6,3,East Miguelborough,"Physics, Science",2022-12-10,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,53,68,28.3
+af273f40-55cd-472e-8b10-cf68b7691470,Victor Bond,10,1,Ayalaview,Geography,2021-05-06,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,60,84,40.0
+99c7abea-6756-464d-8864-9f787eaf1679,Christopher Kramer,13,3,South Davidtown,Chemistry,2024-02-01,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,50,50,0.0
+3e581dd5-eed1-4368-9811-6722277dfc7b,Tara Morgan,11,2,North Erin,History,2023-04-22,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,61,87,42.62
+01847803-d840-4ccb-a446-eceecaa0a679,Brittney Guerrero,16,8,Wardton,"Biology, Math",2023-07-02,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,72,77,6.94
+b287c440-7881-407d-ae77-1359677abeb7,Amy Fletcher,18,7,Jamesberg,Science,2021-11-18,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,67,84,25.37
+a8294aab-afaf-4b68-a05b-f9e7c42b43fa,Patricia Rodriguez,7,4,Port Jacobfort,"English, Biology",2022-07-03,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,79,85,7.59
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,91,98,7.69
+ee4b0498-a5f3-4a63-a5cb-ed9fa5794917,Bradley Collins,8,8,Lake Bryan,History,2021-03-05,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,89,94,5.62
+d466c772-5df5-472b-9ba4-8aa0aab6941b,Kathryn Barker,15,8,North Timothy,Biology,2021-09-12,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,100,100,0.0
+01ed02db-d663-4406-a90a-f02131d4f7df,Ryan Zimmerman,6,10,South Nicole,"English, Biology, Science",2022-04-02,c6eb245e-4b7b-427a-a20e-222447d35352,Gloria Gutierrez,11,4.8,90,95,5.56
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Christopher Howard,16,3,Lake Leah,Science,2024-03-23,e412eb0b-d260-430d-aedc-5fdd27ef0967,Benjamin Garcia DVM,9,4.2,66,83,25.76
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,63,71,12.7
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,58,85,46.55
+4574a37e-9dbf-493f-bc03-1029253053ae,Chad Bridges,17,6,Dicksonburgh,"Physics, Geography",2021-09-09,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,83,92,10.84
+6f9179cf-0018-4cfe-8eb0-92207984f33f,William Williams,16,10,Anthonystad,"Math, History",2023-02-15,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,69,74,7.25
+a2237d40-d836-4a33-8467-36ce24dbac94,Michael Wilson,14,7,Lukeland,"Chemistry, Math",2023-01-21,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,100,100,0.0
+89421c6d-764a-4510-9acb-a5888397d412,Denise Smith,10,1,East Jessicabury,"Physics, Math",2021-11-08,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,71,94,32.39
+3a05c0b7-3ddf-45b2-8151-28dbaf8c96a9,Dr. Donald Smith MD,11,4,Christopherport,"Chemistry, English, Geography",2023-08-05,7f571b98-2bc3-4de0-9d08-20e0a24921ff,Keith Watkins,16,4.1,61,97,59.02
+e93b4418-b170-41ed-9b04-0be38f41d3e4,Jordan West,18,11,South Amy,Physics,2021-02-04,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,82,94,14.63
+4cea2df0-0a66-4c4e-a168-1081399f8a8f,Ryan Rivera,14,3,Port Eduardo,"English, Geography, Physics",2023-12-02,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,59,77,30.51
+033c1469-4f06-4a18-b4a2-64447d3c279b,Kristi Martin,13,9,Lambfort,History,2022-09-02,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,91,96,5.49
+63c2523d-4b32-4c86-b5d5-870de79d1be2,Dale Anthony,14,7,Jessicaton,"Chemistry, English, Science",2021-08-19,783d4a6d-4d4e-4e29-99c5-e64cb8c6773e,Elizabeth Meyers,6,4.2,62,86,38.71
+4ae302f3-b31e-4be8-a3ef-802edf8693ce,Cristina Walton,9,6,Jameschester,"English, Biology, History",2023-12-02,b8ecfe83-3a61-4c6c-a6ab-5199de931896,Shannon Trujillo,15,3.8,68,88,29.41
+40aaec7a-bf1d-4687-9a1e-c04271d04b0f,Seth Chambers,9,3,New Christopher,"English, History, Science",2020-08-06,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,89,91,2.25
+ee4b0498-a5f3-4a63-a5cb-ed9fa5794917,Bradley Collins,8,8,Lake Bryan,History,2021-03-05,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,81,84,3.7
+675e0c52-1eb9-4739-b8ac-dd816522ff46,Anthony Nelson,10,7,West Erinshire,"History, Physics, Math",2022-06-19,140895d0-281b-4255-8fc7-6634cea323b4,Peter Boyer,8,5.0,79,95,20.25
+abf0f4bd-4af0-46fe-9bbd-d1f416f14aad,David Kelly,14,12,Morganfort,"English, Math, Biology",2023-05-04,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,77,84,9.09
+59f88a69-0466-4d6b-96ba-d500ded1b802,Karen Martinez,10,6,Christopherview,"Biology, Math",2021-11-16,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,67,74,10.45
+62fda854-775e-4ec3-9c9d-03f309018aee,Brian Osborne,16,2,North Carmenberg,Biology,2022-10-03,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,50,79,58.0
+4b5ca436-953c-478e-a106-7a8cd7a3283c,Renee Jones,11,9,New Mistyton,"Physics, Chemistry",2020-07-25,7fdf2229-2ce4-4e41-9961-640123d8c480,David Martinez,18,4.6,81,97,19.75
+15d51b49-92a9-4177-b85e-cebcc0038e5a,Maria Garcia,8,9,Sanchezton,"Geography, English, History",2020-04-03,4d01cc36-0091-4b3d-918b-55fde8968a9f,Nicole Garcia,13,4.8,99,100,1.01
+ce65b211-a3c9-48d7-aceb-18652fc339b9,Jason Arroyo,11,7,West Michael,History,2022-09-02,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,89,96,7.87
+bc52b34e-cdfa-4cc8-8805-ae3188a0edce,Dr. Olivia Cunningham,18,10,South Stephanieburgh,"Physics, History, Biology",2020-01-10,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,88,88,0.0
+567e5862-ef15-4673-a1df-3da79d44c93e,Tracy Reeves,14,11,Kristinaberg,Biology,2023-04-19,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,56,64,14.29
+abf0f4bd-4af0-46fe-9bbd-d1f416f14aad,David Kelly,14,12,Morganfort,"English, Math, Biology",2023-05-04,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,56,60,7.14
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,4d01cc36-0091-4b3d-918b-55fde8968a9f,Nicole Garcia,13,4.8,77,89,15.58
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,65,82,26.15
+606e8502-002f-4cc4-896b-fafff5b7751f,Tony Dominguez,17,5,East Kimberly,Geography,2021-05-08,08153b1f-f77b-4c86-aa32-49e632ab7704,Nicole Macdonald,12,4.2,56,90,60.71
+8d00b7b2-7d82-4ccf-81eb-88e5d549faad,Kaitlyn White,11,10,Erikberg,Physics,2023-11-20,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,60,90,50.0
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,70,79,12.86
+faaf500c-a74b-4d20-8c3f-a29ffa4b0bc6,Richard Wright,14,12,West Carla,"Biology, Geography, Math",2023-04-22,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,64,75,17.19
+181a218e-cfd6-4560-9c05-c1f3241d3e27,Sean Morrow,15,9,New Angelica,Math,2020-01-22,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,79,87,10.13
+fa7199d6-53e8-4886-9411-723a50b417eb,Randy Grimes,16,5,New Russell,Physics,2022-01-07,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,53,60,13.21
+b341facd-ff0a-40f1-a425-799aa905d750,Rebecca Miller,18,11,South Brendamouth,"Biology, Physics, History",2021-08-14,8c662964-801f-4c5f-b21a-11284586ce14,Ashley Gonzales,19,4.2,100,100,0.0
+ea455fc7-c80c-4483-b4dd-7624c3d9b3b0,Laura Dominguez,9,11,East Jessica,"English, Biology, Math",2021-12-27,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,87,99,13.79
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Christopher Howard,16,3,Lake Leah,Science,2024-03-23,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,68,100,47.06
+03cb8f1e-9b9a-4bf5-8a78-491f02115503,Tiffany Beasley,16,2,Cruzfort,"Chemistry, Physics",2020-03-25,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,68,85,25.0
+91dc59ef-eb21-43f6-a6fd-68e8d69c91c2,Michael Levy,12,6,Port Ericaburgh,"History, Biology, Geography",2022-11-29,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,54,93,72.22
+5419eefc-d5e7-4e3f-a736-17d94d7bd307,Brian Hoffman,6,8,Wellsmouth,"Physics, Science, History",2021-01-21,64d2a318-4388-438a-82bc-a728ec207495,Marie Larson,20,3.8,92,95,3.26
+797c27bf-c793-4520-9c92-1e7f9aa1ecd6,Desiree Carr,10,6,Maynardville,Physics,2020-05-31,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,64,80,25.0
+f3cc9d8a-4b16-48e4-9f20-f4063438b4e4,Travis Hogan,9,8,Danielberg,"Biology, Science, Geography",2023-10-18,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,84,91,8.33
+4815642c-a2bb-4283-bd83-ad7c39f706d4,Vincent Bell,15,3,South Steven,"Science, History, Chemistry",2021-03-04,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,70,86,22.86
+fa7199d6-53e8-4886-9411-723a50b417eb,Randy Grimes,16,5,New Russell,Physics,2022-01-07,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,64,79,23.44
+211e55c3-9cc7-43ad-a264-190f486c0adf,Barbara Kelly,14,5,Perezstad,English,2023-01-19,4d01cc36-0091-4b3d-918b-55fde8968a9f,Nicole Garcia,13,4.8,53,64,20.75
+0ea255e0-8e50-479a-8582-644479faf501,Samantha Cooper,9,5,North Ronaldstad,"Chemistry, Physics, English",2023-11-04,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,99,100,1.01
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,95,100,5.26
+4d18c103-a100-4d14-ba92-cd28c4c536fb,Brooke Mccarthy,18,5,Davisfort,"Physics, Chemistry, History",2021-12-22,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,74,91,22.97
+25323fd3-c9f3-4bf8-8d03-cbddcc869dea,William Stephens,7,7,East Michelle,"English, Chemistry",2023-07-20,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,78,78,0.0
+59f88a69-0466-4d6b-96ba-d500ded1b802,Karen Martinez,10,6,Christopherview,"Biology, Math",2021-11-16,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,85,85,0.0
+a8ab29f1-1033-4310-ab7b-de99878f40ed,Lauren David,7,11,Fischerview,History,2022-08-25,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,69,82,18.84
+6bfed001-18bc-4a21-b887-d3e9a3171056,Ryan Burke,14,11,Joshuaville,"Science, Math, Biology",2022-11-14,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,80,83,3.75
+fae3fcee-7636-4fd9-8376-ffa876fe579f,Yvonne Poole,9,12,Lake Reginald,"Geography, English, Science",2022-08-24,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,95,100,5.26
+3085ee6d-a31c-45d2-8d96-a6a19dbdc6ff,Kimberly Brown,14,1,East Rebeccatown,English,2022-03-12,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,95,97,2.11
+4b5ca436-953c-478e-a106-7a8cd7a3283c,Renee Jones,11,9,New Mistyton,"Physics, Chemistry",2020-07-25,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,91,94,3.3
+01847803-d840-4ccb-a446-eceecaa0a679,Brittney Guerrero,16,8,Wardton,"Biology, Math",2023-07-02,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,86,89,3.49
+6af79ad2-993e-48c6-a6b1-06e289110af0,Karen Gibbs,6,3,Lawsonbury,"Geography, Math, Biology",2020-03-04,7fdf2229-2ce4-4e41-9961-640123d8c480,David Martinez,18,4.6,66,99,50.0
+4598244b-f0bd-4405-a50d-d400a27ee80d,Stephen Ayala,14,10,Christophertown,Physics,2024-03-10,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,55,75,36.36
+4574a37e-9dbf-493f-bc03-1029253053ae,Chad Bridges,17,6,Dicksonburgh,"Physics, Geography",2021-09-09,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,72,92,27.78
+ce65b211-a3c9-48d7-aceb-18652fc339b9,Jason Arroyo,11,7,West Michael,History,2022-09-02,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,61,97,59.02
+cdd592a0-aeff-488b-b5ec-a796dc5f3db7,Julie Green,15,8,Jacquelinefurt,"English, Geography",2021-05-19,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,51,65,27.45
+89421c6d-764a-4510-9acb-a5888397d412,Denise Smith,10,1,East Jessicabury,"Physics, Math",2021-11-08,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,70,83,18.57
+8c69778f-fd42-4697-a511-16565c646036,Brian Cross,6,5,West Haydenhaven,Chemistry,2020-08-08,1744bed8-cc2f-4e64-8b31-ec7eab39109c,James Thompson,4,4.7,87,99,13.79
+4279b14d-ae55-4dff-b4ab-18fd0a68e88e,Theresa Mays,17,10,Port Karafort,"Chemistry, Science, Math",2023-11-26,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,94,94,0.0
+9e76ef95-c43e-4bcc-af69-ed695e349e31,Alexander Romero,16,9,New Michaelstad,Science,2021-07-12,64d2a318-4388-438a-82bc-a728ec207495,Marie Larson,20,3.8,87,95,9.2
+d977e993-3c49-476f-8fc6-e62585940927,Michael Bryan,8,5,Rileymouth,Math,2024-03-10,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,64,83,29.69
+ebba80d2-820b-451d-9b3a-efa6c7d02862,Allison Day,11,5,New Robert,"Geography, Science",2021-10-08,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,88,98,11.36
+4598244b-f0bd-4405-a50d-d400a27ee80d,Stephen Ayala,14,10,Christophertown,Physics,2024-03-10,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,76,100,31.58
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,52,78,50.0
+7a658abe-1188-4fa1-b660-ffd5119fc1c4,Troy Hawkins,7,5,Timothyville,"Physics, Math, Science",2022-07-10,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,54,90,66.67
+796f9881-572a-4b53-ab6b-7b4229502326,Kevin Ferrell,15,9,Kathleenville,"Science, Geography, Physics",2023-02-18,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,77,86,11.69
+cddb2316-cc68-4d3f-9d37-da5ca2fc7fe3,Stephanie Cox,7,4,Lake James,Math,2023-01-06,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,61,80,31.15
+63c2523d-4b32-4c86-b5d5-870de79d1be2,Dale Anthony,14,7,Jessicaton,"Chemistry, English, Science",2021-08-19,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,93,95,2.15
+4cea2df0-0a66-4c4e-a168-1081399f8a8f,Ryan Rivera,14,3,Port Eduardo,"English, Geography, Physics",2023-12-02,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,96,99,3.12
+a53011a2-3d74-49ee-a514-1471ea951570,Dr. Benjamin King,7,1,Nicolestad,Math,2020-03-08,7fdf2229-2ce4-4e41-9961-640123d8c480,David Martinez,18,4.6,53,68,28.3
+31610b3d-1257-463c-b25d-cb50d15b5985,Joyce Allen,12,9,Boydmouth,"History, Geography",2021-02-23,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,93,93,0.0
+e0397e67-9261-46de-91ba-cf80aaa07996,Brandon Weiss,11,11,Hunterville,"Physics, Geography",2021-03-28,c6eb245e-4b7b-427a-a20e-222447d35352,Gloria Gutierrez,11,4.8,52,67,28.85
+cd00f428-8ec1-4f83-9679-ddccfc8847d2,Brendan Herring,7,6,Penabury,"Chemistry, Physics",2023-05-06,c6eb245e-4b7b-427a-a20e-222447d35352,Gloria Gutierrez,11,4.8,70,93,32.86
+e5e6190b-28da-4b89-8130-8a09cddd03bb,David Espinoza,11,6,Fisherburgh,"Biology, Physics, Chemistry",2023-07-26,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,88,91,3.41
+ee4b0498-a5f3-4a63-a5cb-ed9fa5794917,Bradley Collins,8,8,Lake Bryan,History,2021-03-05,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,57,81,42.11
+0ff030b8-6238-40a0-8f5e-9ea362584ab3,Timothy Allen,12,11,Brianton,Math,2024-02-04,d18c9149-847e-4300-baad-e4d47593afba,Christina Price,18,4.9,69,91,31.88
+7499b28c-30c3-4323-81b1-99c45f1ff97c,Mark Huber,9,12,South Jonathantown,Physics,2024-06-03,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,95,100,5.26
+89421c6d-764a-4510-9acb-a5888397d412,Denise Smith,10,1,East Jessicabury,"Physics, Math",2021-11-08,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,79,79,0.0
+e3d48408-7de8-4234-a412-579d6af944e0,Michelle Nunez,8,8,Port Valerie,"English, Math",2023-07-01,ee9d0e10-f9d7-479d-bd0b-fd3ba7d8baef,Peggy White,14,4.0,67,68,1.49
+a1c2d9bf-0dcf-435b-b552-c6e86953a115,Mary Wong,6,6,Carpenterfort,"Geography, Physics, Math",2022-03-02,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,67,97,44.78
+a8ab29f1-1033-4310-ab7b-de99878f40ed,Lauren David,7,11,Fischerview,History,2022-08-25,7f571b98-2bc3-4de0-9d08-20e0a24921ff,Keith Watkins,16,4.1,84,96,14.29
+9f3da6ae-5295-4caf-8f65-1f216fa2be13,Cheryl Jenkins,11,11,Lake David,"Science, Geography",2023-01-15,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,59,72,22.03
+e00111e5-d29d-45df-8f1d-a1100cc36d8c,Jennifer Dunn,8,10,Port Jessicatown,Chemistry,2023-06-02,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,98,100,2.04
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,89,95,6.74
+606e8502-002f-4cc4-896b-fafff5b7751f,Tony Dominguez,17,5,East Kimberly,Geography,2021-05-08,c317310d-db21-41c5-9551-d5e34f47bc94,Chelsea Banks,2,3.8,99,99,0.0
+a9452a96-a123-4c72-89ac-e04913bd01ae,Cole Guzman,7,6,Ericberg,"Biology, History, Chemistry",2023-08-27,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,52,55,5.77
+92d6ff73-5b3a-4595-8458-92c14e0e15d3,Morgan Hernandez,12,9,South Courtneytown,Physics,2022-01-20,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,51,59,15.69
+681091fe-0a5a-4322-8578-42a9934c472a,Curtis Murphy,15,7,East Laurastad,"Physics, English",2020-03-28,e412eb0b-d260-430d-aedc-5fdd27ef0967,Benjamin Garcia DVM,9,4.2,55,90,63.64
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,69,84,21.74
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,62,67,8.06
+e93b4418-b170-41ed-9b04-0be38f41d3e4,Jordan West,18,11,South Amy,Physics,2021-02-04,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,84,87,3.57
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,83,93,12.05
+c315d334-e47c-48ea-939e-5ca2b9e7f780,David Clark,15,7,Port Melissahaven,Physics,2020-07-27,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,98,98,0.0
+3239d04b-cbab-4b51-b85c-5fdcbad3116b,Dan Mckinney,10,3,Johnsonland,"English, Physics, Geography",2021-08-03,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,72,90,25.0
+18700fd5-4789-4708-9b08-fdc11162ce26,John Deleon,10,8,Braunland,"History, English",2021-03-15,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,98,99,1.02
+cb85eda6-db01-48ff-9e21-c855cc713ba6,Alisha Murray,14,12,North Robert,"Math, English",2023-03-29,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,86,90,4.65
+53ca8c05-acb5-459f-8eb9-876884a5b1c3,Mark Mitchell,7,5,East Lisa,"Science, Physics",2024-04-17,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,73,93,27.4
+a0ce5b5f-ca56-4921-b942-2f1efed97f9e,William Bond,18,8,Stephanieville,History,2021-12-30,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,82,82,0.0
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,89,100,12.36
+d466c772-5df5-472b-9ba4-8aa0aab6941b,Kathryn Barker,15,8,North Timothy,Biology,2021-09-12,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,98,99,1.02
+e689e5e8-87c4-4eb8-8f8e-3e0103c8e104,John Johnson,15,4,Sarahton,"Chemistry, Physics",2023-11-17,b97155a0-d334-4b0a-a96e-77d2ea853efa,Mark Montoya,6,4.1,81,94,16.05
+af273f40-55cd-472e-8b10-cf68b7691470,Victor Bond,10,1,Ayalaview,Geography,2021-05-06,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,99,99,0.0
+38dfe76b-ae35-4290-ad80-ab08c963d148,Jennifer Morse,12,4,Leeville,Biology,2020-09-23,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,90,93,3.33
+ce749e8a-f4e1-480b-85a0-2c72f22a4fc6,Natalie Massey,15,3,Lake Christian,Chemistry,2020-11-18,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,87,91,4.6
+ff4533fe-bc6f-46ac-a139-d15d48d8b9ef,Natalie Robertson,11,2,North Paulview,"Math, Geography, English",2021-01-02,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,53,64,20.75
+e3e70682-c209-4cac-a29f-6fbed82c07cd,David Dixon,13,8,Hullport,Science,2024-01-20,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,92,92,0.0
+3e332f35-086c-4768-b0fe-3cfc991ab513,Larry Stewart DDS,6,7,North Bryanbury,"Biology, Chemistry, Geography",2023-10-09,1744bed8-cc2f-4e64-8b31-ec7eab39109c,James Thompson,4,4.7,98,98,0.0
+c4be5a7f-a15d-41c9-9536-99654f4f5a26,David Reyes,18,6,Brewerhaven,"Chemistry, Math",2023-02-17,166fca8f-9162-4297-bdf3-aecebd9a324e,Ryan Aguirre,9,4.8,83,98,18.07
+e3e70682-c209-4cac-a29f-6fbed82c07cd,David Dixon,13,8,Hullport,Science,2024-01-20,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,58,69,18.97
+59f88a69-0466-4d6b-96ba-d500ded1b802,Karen Martinez,10,6,Christopherview,"Biology, Math",2021-11-16,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,51,59,15.69
+a0ce5b5f-ca56-4921-b942-2f1efed97f9e,William Bond,18,8,Stephanieville,History,2021-12-30,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,55,55,0.0
+29c836e0-3130-4e46-af79-75467e5168dc,Ryan Robbins,8,9,Gonzalesmouth,"Math, English",2023-12-26,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,65,99,52.31
+4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Gary Hatfield,12,8,Reyeschester,"Geography, Chemistry",2022-03-30,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,71,78,9.86
+d670f668-637e-4edc-9b6e-4ae7a6208143,Brittany Vazquez,14,3,Harmonmouth,Science,2020-05-21,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,93,99,6.45
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,75,97,29.33
+e3d48408-7de8-4234-a412-579d6af944e0,Michelle Nunez,8,8,Port Valerie,"English, Math",2023-07-01,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,63,86,36.51
+6c0be55c-90e6-49e1-a44f-c3a96d0c62c3,Taylor Perry,11,6,South Kimtown,"Geography, History, Math",2023-10-19,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,56,93,66.07
+796f9881-572a-4b53-ab6b-7b4229502326,Kevin Ferrell,15,9,Kathleenville,"Science, Geography, Physics",2023-02-18,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,66,82,24.24
+4d18c103-a100-4d14-ba92-cd28c4c536fb,Brooke Mccarthy,18,5,Davisfort,"Physics, Chemistry, History",2021-12-22,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,97,100,3.09
+f190cb53-b489-45c7-a22f-6e82ecdd001e,Peter Anderson,10,5,Lake John,Physics,2022-07-19,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,94,95,1.06
+663eab2b-c832-45cc-995d-767b0c1333ce,Nicholas Phillips,14,7,Mcclainside,English,2020-06-19,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,72,74,2.78
+0ff030b8-6238-40a0-8f5e-9ea362584ab3,Timothy Allen,12,11,Brianton,Math,2024-02-04,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,81,92,13.58
+98c75205-1e01-4934-802d-0baf878b9f6b,Mary Smith,7,6,Mcculloughhaven,Geography,2022-08-25,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,64,98,53.12
+310dfbf4-d741-4ae8-8fa7-1765e757155d,Edward Terry,17,10,Fosterberg,Geography,2023-10-01,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,96,96,0.0
+a9452a96-a123-4c72-89ac-e04913bd01ae,Cole Guzman,7,6,Ericberg,"Biology, History, Chemistry",2023-08-27,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,50,57,14.0
+6f9179cf-0018-4cfe-8eb0-92207984f33f,William Williams,16,10,Anthonystad,"Math, History",2023-02-15,7f571b98-2bc3-4de0-9d08-20e0a24921ff,Keith Watkins,16,4.1,88,88,0.0
+5b8d11ba-a0ec-4e5a-a487-8d19586d7f41,Lorraine Molina,16,7,West Gregory,"Physics, History",2022-10-05,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,84,88,4.76
+169e98ce-a771-4b3c-9f11-8a429cd3a795,Chad Dorsey,6,1,Port Andrew,"History, Biology, English",2022-05-28,e412eb0b-d260-430d-aedc-5fdd27ef0967,Benjamin Garcia DVM,9,4.2,57,82,43.86
+4815642c-a2bb-4283-bd83-ad7c39f706d4,Vincent Bell,15,3,South Steven,"Science, History, Chemistry",2021-03-04,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,95,98,3.16
+6282c33d-3665-46a5-a34d-a412816a5ea8,Katherine Martinez,11,3,New Alexanderland,Geography,2020-02-02,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,96,100,4.17
+793910e6-56e1-4c2b-a59b-adcb9bcae27d,Charles Cardenas,10,1,Michaelfurt,"Science, Math, Physics",2023-05-14,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,50,95,90.0
+df14c612-5f58-45b5-af79-0959a3e04b3b,Christine Matthews,15,12,East Edwardmouth,"Math, Biology",2022-11-14,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,62,77,24.19
+18711121-c9e8-460c-8a8f-541d052ba051,Monica Davis,7,8,Mckinneyshire,"Chemistry, Science, English",2021-09-06,8c662964-801f-4c5f-b21a-11284586ce14,Ashley Gonzales,19,4.2,68,81,19.12
+61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Kathryn Berry,8,6,Lake Ronaldborough,"English, Chemistry, Biology",2022-06-18,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,59,84,42.37
+d44f85e7-e2f8-4051-813c-66888f1b5be1,Tyler Wright,14,9,East Mary,"English, Chemistry",2022-05-16,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,99,99,0.0
+d670f668-637e-4edc-9b6e-4ae7a6208143,Brittany Vazquez,14,3,Harmonmouth,Science,2020-05-21,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,91,94,3.3
+9e76ef95-c43e-4bcc-af69-ed695e349e31,Alexander Romero,16,9,New Michaelstad,Science,2021-07-12,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,57,63,10.53
+1de4ead3-362b-4eea-bdb6-3f3243cec809,Brenda Moon,14,1,Gileston,History,2022-07-17,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,98,100,2.04
+6c0be55c-90e6-49e1-a44f-c3a96d0c62c3,Taylor Perry,11,6,South Kimtown,"Geography, History, Math",2023-10-19,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,97,100,3.09
+ce65b211-a3c9-48d7-aceb-18652fc339b9,Jason Arroyo,11,7,West Michael,History,2022-09-02,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,66,83,25.76
+b0f1bb1d-8e10-4ed6-92d0-72230b20ee0f,Lynn Herring,10,12,Laurenland,Biology,2020-09-07,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,53,63,18.87
+df14c612-5f58-45b5-af79-0959a3e04b3b,Christine Matthews,15,12,East Edwardmouth,"Math, Biology",2022-11-14,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,87,99,13.79
+e3e70682-c209-4cac-a29f-6fbed82c07cd,David Dixon,13,8,Hullport,Science,2024-01-20,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,100,100,0.0
+d466c772-5df5-472b-9ba4-8aa0aab6941b,Kathryn Barker,15,8,North Timothy,Biology,2021-09-12,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,58,77,32.76
+796f9881-572a-4b53-ab6b-7b4229502326,Kevin Ferrell,15,9,Kathleenville,"Science, Geography, Physics",2023-02-18,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,67,78,16.42
+b5b85fb3-c5b0-43c8-a038-c8f68cb12015,Laura Douglas,18,4,Christinahaven,"Math, Chemistry",2023-07-16,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,72,80,11.11
+39b66d71-951a-4518-87e7-7e2b6b291a13,Erik Stokes,11,3,Prestonville,Science,2023-08-09,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,99,99,0.0
+e5e6190b-28da-4b89-8130-8a09cddd03bb,David Espinoza,11,6,Fisherburgh,"Biology, Physics, Chemistry",2023-07-26,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,95,95,0.0
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,69,69,0.0
+b3969057-425c-4200-905a-da6b720299e3,Joseph Freeman,15,7,North Troyport,"English, History, Math",2023-12-21,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,94,97,3.19
+7eda9ab9-bec6-4ffe-a48f-4a254cd8ef24,Marc Johnson,12,5,Myerstown,"English, Math, History",2020-07-25,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,88,97,10.23
+663eab2b-c832-45cc-995d-767b0c1333ce,Nicholas Phillips,14,7,Mcclainside,English,2020-06-19,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,60,92,53.33
+29c836e0-3130-4e46-af79-75467e5168dc,Ryan Robbins,8,9,Gonzalesmouth,"Math, English",2023-12-26,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,67,76,13.43
+310dfbf4-d741-4ae8-8fa7-1765e757155d,Edward Terry,17,10,Fosterberg,Geography,2023-10-01,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,78,91,16.67
+0ea255e0-8e50-479a-8582-644479faf501,Samantha Cooper,9,5,North Ronaldstad,"Chemistry, Physics, English",2023-11-04,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,52,94,80.77
+de8e3228-aa64-4f16-b035-50885a2bf7fe,Jennifer Briggs,6,7,Huntbury,"English, Science, Physics",2024-04-09,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,56,75,33.93
+76579644-e66b-43a0-b8e4-c448e108e5d9,Alexander Wells,8,9,Emmatown,"Chemistry, English, Physics",2020-11-12,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,76,81,6.58
+25323fd3-c9f3-4bf8-8d03-cbddcc869dea,William Stephens,7,7,East Michelle,"English, Chemistry",2023-07-20,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,100,100,0.0
+92f078b8-2269-4227-8513-d91e48622a67,Christine Garcia,10,8,Figueroaview,Physics,2022-06-27,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,88,98,11.36
+b3969057-425c-4200-905a-da6b720299e3,Joseph Freeman,15,7,North Troyport,"English, History, Math",2023-12-21,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,73,93,27.4
+3a05c0b7-3ddf-45b2-8151-28dbaf8c96a9,Dr. Donald Smith MD,11,4,Christopherport,"Chemistry, English, Geography",2023-08-05,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,75,90,20.0
+141bd896-6092-4d2b-8122-9d756a8d3e84,Gabriela Short,18,5,South John,Biology,2024-02-02,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,70,89,27.14
+a1c2d9bf-0dcf-435b-b552-c6e86953a115,Mary Wong,6,6,Carpenterfort,"Geography, Physics, Math",2022-03-02,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,97,100,3.09
+61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Kathryn Berry,8,6,Lake Ronaldborough,"English, Chemistry, Biology",2022-06-18,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,55,69,25.45
+6f9179cf-0018-4cfe-8eb0-92207984f33f,William Williams,16,10,Anthonystad,"Math, History",2023-02-15,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,82,82,0.0
+db0dff11-1a6c-4c25-98e1-6bc0338589c7,Riley Smith,14,1,East Christine,"Physics, English",2023-01-24,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,97,97,0.0
+1e70e799-33a1-41c2-ad4a-b155c09fcd8f,David Davidson DVM,18,12,New Dustin,"English, Biology",2021-09-07,302d6194-ee55-4e17-9e5d-d6f9aabaa3a8,Kathleen Todd,3,3.7,85,85,0.0
+024e8609-4486-4d26-8fd0-92769c017e5d,Mary Smith,14,3,Port Molly,"Physics, Geography, Math",2022-01-03,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,62,62,0.0
+a2237d40-d836-4a33-8467-36ce24dbac94,Michael Wilson,14,7,Lukeland,"Chemistry, Math",2023-01-21,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,99,99,0.0
+0d3dc6aa-dba4-4b5e-9498-665b79fe0a1b,Jennifer Bowers,16,5,Anthonyhaven,"English, Chemistry, Biology",2020-10-24,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,60,85,41.67
+c110412c-3843-4ed6-a586-94b6113c1836,Christopher Mayer,12,12,Zimmermanborough,"Physics, Math, Geography",2023-02-16,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,91,94,3.3
+a0ce5b5f-ca56-4921-b942-2f1efed97f9e,William Bond,18,8,Stephanieville,History,2021-12-30,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,63,76,20.63
+f45aa79b-d855-4b35-9763-b159ed9a189a,Emily Whitehead,12,6,Richardberg,"Chemistry, English, Math",2021-04-03,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,78,93,19.23
+91dc59ef-eb21-43f6-a6fd-68e8d69c91c2,Michael Levy,12,6,Port Ericaburgh,"History, Biology, Geography",2022-11-29,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,100,100,0.0
+3085ee6d-a31c-45d2-8d96-a6a19dbdc6ff,Kimberly Brown,14,1,East Rebeccatown,English,2022-03-12,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,95,99,4.21
+d670f668-637e-4edc-9b6e-4ae7a6208143,Brittany Vazquez,14,3,Harmonmouth,Science,2020-05-21,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,100,100,0.0
+c13e66af-3c95-40d3-be2a-ad3e82221345,Jaime Alvarado,7,12,New Andrew,History,2020-08-30,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,94,98,4.26
+1c351dc9-4226-4a44-b73b-83502743e0df,Diana Roberson,12,7,South Patrick,"History, Math, Science",2024-04-23,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,52,94,80.77
+675e0c52-1eb9-4739-b8ac-dd816522ff46,Anthony Nelson,10,7,West Erinshire,"History, Physics, Math",2022-06-19,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,91,99,8.79
+a0ce5b5f-ca56-4921-b942-2f1efed97f9e,William Bond,18,8,Stephanieville,History,2021-12-30,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,92,97,5.43
+44933c86-49ad-4e95-b837-e5069398dbd6,Jamie Smith,12,6,New Kimland,"Geography, English",2020-02-01,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,70,96,37.14
+ebba80d2-820b-451d-9b3a-efa6c7d02862,Allison Day,11,5,New Robert,"Geography, Science",2021-10-08,b8ecfe83-3a61-4c6c-a6ab-5199de931896,Shannon Trujillo,15,3.8,70,88,25.71
+d4ce14b3-9a9a-46bc-b26e-a68df4e35152,Justin Miller,18,12,Haleychester,"Math, History",2022-09-03,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,84,89,5.95
+039d60ba-9c99-4735-95a6-52a708fce7af,Brian Joseph,9,4,New Angela,"History, Geography, Biology",2023-10-27,d18c9149-847e-4300-baad-e4d47593afba,Christina Price,18,4.9,72,76,5.56
+c4841a8d-2f75-4bde-a616-3e5beda2fc4c,Christopher Chung,15,7,Sharonberg,"Physics, Science, Math",2023-01-09,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,61,70,14.75
+3d992624-4b93-48d9-a188-0ea05e5ecd0a,Victor Herrera,15,3,Sheribury,History,2022-11-15,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,55,99,80.0
+c315d334-e47c-48ea-939e-5ca2b9e7f780,David Clark,15,7,Port Melissahaven,Physics,2020-07-27,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,93,95,2.15
+4815642c-a2bb-4283-bd83-ad7c39f706d4,Vincent Bell,15,3,South Steven,"Science, History, Chemistry",2021-03-04,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,70,82,17.14
+a2834536-95de-4d6e-9df2-e07353f04099,Carlos Foster,7,11,New Vickie,"Chemistry, Math",2021-02-25,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,98,98,0.0
+606e8502-002f-4cc4-896b-fafff5b7751f,Tony Dominguez,17,5,East Kimberly,Geography,2021-05-08,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,51,93,82.35
+889c8ae2-4e3c-4f2d-8332-559dcad00273,Joseph Wright,7,1,North Robert,"Biology, Geography, History",2022-06-19,08153b1f-f77b-4c86-aa32-49e632ab7704,Nicole Macdonald,12,4.2,85,91,7.06
+a0f9c074-9177-46d4-9f2e-9167713eceb1,Caleb Martinez,6,9,Garzaberg,English,2022-07-17,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,85,99,16.47
+64348207-3415-44cc-b7fd-7fd135cb60f2,Anne Morales DDS,10,9,Curryburgh,"Math, Biology",2020-04-10,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,85,91,7.06
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,83,95,14.46
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Christopher Howard,16,3,Lake Leah,Science,2024-03-23,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,52,56,7.69
+a6894303-e807-492d-b4ca-0c564d390362,Rachel Lee,10,11,Stephenland,"History, Science, Chemistry",2020-02-26,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,87,90,3.45
+92f078b8-2269-4227-8513-d91e48622a67,Christine Garcia,10,8,Figueroaview,Physics,2022-06-27,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,91,97,6.59
+1759edc3-72ae-4244-8b01-63c1cd9d2b7d,Francisco Romero,10,11,Rodriguezside,"Science, Math, History",2022-06-23,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,56,85,51.79
+4053b188-339d-48f5-9658-b1b33012ae1c,Nancy Collins,10,10,Scottstad,"Chemistry, Science",2022-01-15,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,55,67,21.82
+64348207-3415-44cc-b7fd-7fd135cb60f2,Anne Morales DDS,10,9,Curryburgh,"Math, Biology",2020-04-10,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,74,77,4.05
+03729e33-c550-4d2b-909e-7f7862f25291,Kevin Mcdaniel,11,4,East Andrew,"Math, English, Science",2022-10-01,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,74,98,32.43
+52722246-257e-4412-a215-74899fbd4b9f,Ryan Scott,14,11,New Janet,"Biology, History",2020-12-22,9bbab50a-969d-4830-9b08-492ec413e9ba,Tyler Parsons,10,4.2,57,83,45.61
+84eaf943-2ee6-4e21-93fb-2ed1b9534807,Michelle Wheeler,8,11,Hernandezfort,"Biology, Physics",2021-10-24,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,53,94,77.36
+18700fd5-4789-4708-9b08-fdc11162ce26,John Deleon,10,8,Braunland,"History, English",2021-03-15,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,61,69,13.11
+a53011a2-3d74-49ee-a514-1471ea951570,Dr. Benjamin King,7,1,Nicolestad,Math,2020-03-08,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,80,93,16.25
+01ed02db-d663-4406-a90a-f02131d4f7df,Ryan Zimmerman,6,10,South Nicole,"English, Biology, Science",2022-04-02,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,90,92,2.22
+4d18c103-a100-4d14-ba92-cd28c4c536fb,Brooke Mccarthy,18,5,Davisfort,"Physics, Chemistry, History",2021-12-22,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,60,97,61.67
+061f5679-6908-4bd6-af61-7cacc674d244,Stephen Tran,7,2,Walkerbury,"Geography, English",2022-02-25,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,95,98,3.16
+5be12d09-908e-4372-bcbe-9a42f89d3fda,Mitchell Payne,13,3,Jeffreybury,Chemistry,2020-07-20,ee9d0e10-f9d7-479d-bd0b-fd3ba7d8baef,Peggy White,14,4.0,54,65,20.37
+9e76ef95-c43e-4bcc-af69-ed695e349e31,Alexander Romero,16,9,New Michaelstad,Science,2021-07-12,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,88,94,6.82
+700b1433-f5d6-4476-a0f1-2d46e775f27e,Paul Fox,17,1,New Johnport,Biology,2022-04-14,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,95,95,0.0
+a0ce5b5f-ca56-4921-b942-2f1efed97f9e,William Bond,18,8,Stephanieville,History,2021-12-30,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,68,90,32.35
+421aa15e-f58c-43ce-b51d-70d8582dd972,Vincent Cox,14,2,Woodwardport,"Chemistry, Science, Math",2022-10-12,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,70,88,25.71
+e0397e67-9261-46de-91ba-cf80aaa07996,Brandon Weiss,11,11,Hunterville,"Physics, Geography",2021-03-28,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,55,60,9.09
+38dfe76b-ae35-4290-ad80-ab08c963d148,Jennifer Morse,12,4,Leeville,Biology,2020-09-23,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,71,92,29.58
+675e0c52-1eb9-4739-b8ac-dd816522ff46,Anthony Nelson,10,7,West Erinshire,"History, Physics, Math",2022-06-19,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,60,86,43.33
+7499b28c-30c3-4323-81b1-99c45f1ff97c,Mark Huber,9,12,South Jonathantown,Physics,2024-06-03,4d01cc36-0091-4b3d-918b-55fde8968a9f,Nicole Garcia,13,4.8,90,94,4.44
+2b12c92c-6256-4a95-9487-b5c3b7626f49,Matthew Mcdaniel,17,7,South Sarah,"Geography, Math",2021-04-03,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,90,91,1.11
+a53011a2-3d74-49ee-a514-1471ea951570,Dr. Benjamin King,7,1,Nicolestad,Math,2020-03-08,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,62,93,50.0
+76579644-e66b-43a0-b8e4-c448e108e5d9,Alexander Wells,8,9,Emmatown,"Chemistry, English, Physics",2020-11-12,08153b1f-f77b-4c86-aa32-49e632ab7704,Nicole Macdonald,12,4.2,56,84,50.0
+03729e33-c550-4d2b-909e-7f7862f25291,Kevin Mcdaniel,11,4,East Andrew,"Math, English, Science",2022-10-01,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,62,79,27.42
+69560c06-3008-4519-ad83-095163eaa005,Christopher Williams DVM,15,6,Pamhaven,Math,2021-08-05,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,68,75,10.29
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,58,88,51.72
+c1b5468a-27bb-4580-a8f5-8c5dffa08419,Kristen Johnson,8,6,Lake William,"Biology, History",2022-09-09,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,71,88,23.94
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,71,97,36.62
+5e7f503c-4b13-47f6-81d6-d903bf7b68ae,Tasha Hall,9,6,East Shawn,"Biology, Physics",2024-01-21,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,100,100,0.0
+c110412c-3843-4ed6-a586-94b6113c1836,Christopher Mayer,12,12,Zimmermanborough,"Physics, Math, Geography",2023-02-16,48ef09a4-b8c0-4ce8-80a0-864341cb57da,Jose Porter,4,4.9,51,99,94.12
+141bd896-6092-4d2b-8122-9d756a8d3e84,Gabriela Short,18,5,South John,Biology,2024-02-02,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,50,65,30.0
+a6245b59-8c94-4f98-b338-6c3e1af4787f,James Frank,17,4,Rodriguezton,"Geography, History, English",2023-12-22,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,85,100,17.65
+cdd592a0-aeff-488b-b5ec-a796dc5f3db7,Julie Green,15,8,Jacquelinefurt,"English, Geography",2021-05-19,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,50,81,62.0
+4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Gary Hatfield,12,8,Reyeschester,"Geography, Chemistry",2022-03-30,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,64,93,45.31
+310dfbf4-d741-4ae8-8fa7-1765e757155d,Edward Terry,17,10,Fosterberg,Geography,2023-10-01,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,71,80,12.68
+8d00b7b2-7d82-4ccf-81eb-88e5d549faad,Kaitlyn White,11,10,Erikberg,Physics,2023-11-20,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,73,96,31.51
+09e469e6-ec62-42c8-a648-ee38e07405eb,Stephanie Leblanc,14,3,Masseyhaven,Math,2022-05-06,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,73,97,32.88
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,78,81,3.85
+848edc98-eec9-4a67-8cc6-72fc3006ff85,Barbara Brown,16,10,Benjaminburgh,Math,2023-12-26,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,51,59,15.69
+92d6ff73-5b3a-4595-8458-92c14e0e15d3,Morgan Hernandez,12,9,South Courtneytown,Physics,2022-01-20,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,76,96,26.32
+743397f1-ad5b-4bb2-965a-f699d3bb63d7,Linda Davis,8,8,Lake Daletown,"History, Math",2021-03-16,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,93,98,5.38
+c36a4162-da59-4d3e-a0fe-9e1b79101825,Shirley Robbins,10,2,Melvinburgh,"Physics, Biology, History",2021-08-02,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,100,100,0.0
+b29a8b06-daf6-4c5f-a577-bffac87a7463,Robert Walters,18,11,North Davidborough,Chemistry,2021-01-06,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,81,88,8.64
+c4841a8d-2f75-4bde-a616-3e5beda2fc4c,Christopher Chung,15,7,Sharonberg,"Physics, Science, Math",2023-01-09,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,51,70,37.25
+848edc98-eec9-4a67-8cc6-72fc3006ff85,Barbara Brown,16,10,Benjaminburgh,Math,2023-12-26,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,91,96,5.49
+6239f30a-7052-4bb6-90c6-735014b3f264,Kimberly Arnold,17,11,East Douglasfurt,"Biology, History, Geography",2024-05-07,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,67,95,41.79
+ce749e8a-f4e1-480b-85a0-2c72f22a4fc6,Natalie Massey,15,3,Lake Christian,Chemistry,2020-11-18,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,52,95,82.69
+385127f1-f317-430e-9199-5cf180d9a24e,Joyce Beck,17,8,Hallview,"Math, Science, Chemistry",2021-08-09,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,67,81,20.9
+552f233a-8c25-466a-9ff3-9849b4e1357d,Kimberly Maynard,12,9,Seanfurt,"English, Math",2022-09-12,9bbab50a-969d-4830-9b08-492ec413e9ba,Tyler Parsons,10,4.2,91,92,1.1
+b0f1bb1d-8e10-4ed6-92d0-72230b20ee0f,Lynn Herring,10,12,Laurenland,Biology,2020-09-07,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,83,90,8.43
+47b3df41-67c2-4355-8312-1af68b32992a,Alison Nelson,10,3,North Jonathanhaven,"History, Chemistry",2023-05-16,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,70,98,40.0
+0f013f4e-7396-4f8e-baa8-3536d3d779d5,David Russell,15,2,West Deniseborough,"Physics, Geography",2020-10-03,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,73,75,2.74
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,fcd2f001-852b-49b5-a779-fe32028990e6,Meghan Leonard,20,3.8,66,84,27.27
+59f88a69-0466-4d6b-96ba-d500ded1b802,Karen Martinez,10,6,Christopherview,"Biology, Math",2021-11-16,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,97,97,0.0
+12e0c8b2-bad6-40fb-9948-8dec4f65d4d9,Melinda Kennedy,17,7,West Ryanborough,Physics,2024-01-22,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,94,100,6.38
+a7502a81-2227-496d-81a9-3f90dc821527,Marilyn Reed,9,11,West Melissa,Geography,2020-05-11,08153b1f-f77b-4c86-aa32-49e632ab7704,Nicole Macdonald,12,4.2,75,77,2.67
+ee4b0498-a5f3-4a63-a5cb-ed9fa5794917,Bradley Collins,8,8,Lake Bryan,History,2021-03-05,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,76,90,18.42
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,9bbab50a-969d-4830-9b08-492ec413e9ba,Tyler Parsons,10,4.2,99,100,1.01
+04e6748a-7f3a-47dc-b339-0a6ea0b87e45,Danielle Snow,10,1,Jacobchester,English,2020-08-30,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,65,95,46.15
+a4e0ee5b-1638-425c-8d66-65d8edf2a720,Felicia Hunter,18,4,Williamsville,Science,2022-04-14,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,87,97,11.49
+cd00f428-8ec1-4f83-9679-ddccfc8847d2,Brendan Herring,7,6,Penabury,"Chemistry, Physics",2023-05-06,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,63,69,9.52
+ac7c8803-e01b-4f50-b5d9-7ef760ef1471,Jennifer Morales,11,8,Bartonton,"History, Biology, Science",2021-05-29,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,62,87,40.32
+5e7cfaad-73df-470a-ad0c-abfc1baf01f1,Dawn Tucker,18,9,East Anna,"Physics, Biology",2020-08-30,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,100,100,0.0
+15d51b49-92a9-4177-b85e-cebcc0038e5a,Maria Garcia,8,9,Sanchezton,"Geography, English, History",2020-04-03,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,79,86,8.86
+e5e6190b-28da-4b89-8130-8a09cddd03bb,David Espinoza,11,6,Fisherburgh,"Biology, Physics, Chemistry",2023-07-26,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,60,76,26.67
+44933c86-49ad-4e95-b837-e5069398dbd6,Jamie Smith,12,6,New Kimland,"Geography, English",2020-02-01,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,74,85,14.86
+5e7cfaad-73df-470a-ad0c-abfc1baf01f1,Dawn Tucker,18,9,East Anna,"Physics, Biology",2020-08-30,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,83,96,15.66
+14dbad22-15ea-49d2-9e3d-59d070aaf525,Ronald Moore,15,5,South Cheyenne,History,2023-08-19,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,63,98,55.56
+be792965-3c9a-4236-b2bb-e7b392b95731,Sharon Jacobson,7,5,East Frankland,Geography,2023-08-18,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,59,89,50.85
+20d5c16e-9611-49cf-bfbd-fd47dc7972f0,Mr. Richard Reed,9,5,East Heather,"Math, English",2021-12-16,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,67,76,13.43
+c36a4162-da59-4d3e-a0fe-9e1b79101825,Shirley Robbins,10,2,Melvinburgh,"Physics, Biology, History",2021-08-02,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,92,94,2.17
+9cf600ec-1c3c-4d35-a1d4-fb7e22587c89,Andre Ray,13,11,Jonesland,"English, Science",2023-08-14,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,75,96,28.0
+35045f77-c317-43d4-afa4-f554feb46b24,Kelli Hughes,16,8,Jasonshire,"Chemistry, Biology, Geography",2022-10-20,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,100,100,0.0
+af405e52-199a-4949-ba9d-82b8afbae6c3,Deborah Glover,17,4,Williamside,"English, History",2020-08-20,7f571b98-2bc3-4de0-9d08-20e0a24921ff,Keith Watkins,16,4.1,76,93,22.37
+9e76ef95-c43e-4bcc-af69-ed695e349e31,Alexander Romero,16,9,New Michaelstad,Science,2021-07-12,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,69,95,37.68
+03729e33-c550-4d2b-909e-7f7862f25291,Kevin Mcdaniel,11,4,East Andrew,"Math, English, Science",2022-10-01,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,58,90,55.17
+3e581dd5-eed1-4368-9811-6722277dfc7b,Tara Morgan,11,2,North Erin,History,2023-04-22,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,50,54,8.0
+61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Kathryn Berry,8,6,Lake Ronaldborough,"English, Chemistry, Biology",2022-06-18,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,88,95,7.95
+5e7cfaad-73df-470a-ad0c-abfc1baf01f1,Dawn Tucker,18,9,East Anna,"Physics, Biology",2020-08-30,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,65,81,24.62
+a6245b59-8c94-4f98-b338-6c3e1af4787f,James Frank,17,4,Rodriguezton,"Geography, History, English",2023-12-22,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,54,57,5.56
+796f9881-572a-4b53-ab6b-7b4229502326,Kevin Ferrell,15,9,Kathleenville,"Science, Geography, Physics",2023-02-18,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,100,100,0.0
+25323fd3-c9f3-4bf8-8d03-cbddcc869dea,William Stephens,7,7,East Michelle,"English, Chemistry",2023-07-20,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,68,97,42.65
+9bc69882-5a7c-431a-a275-9469c28d2ad5,Lori Lester,11,1,New Maryhaven,"Math, Physics, Science",2023-01-19,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,97,98,1.03
+4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Gary Hatfield,12,8,Reyeschester,"Geography, Chemistry",2022-03-30,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,64,75,17.19
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,57,84,47.37
+fa7199d6-53e8-4886-9411-723a50b417eb,Randy Grimes,16,5,New Russell,Physics,2022-01-07,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,78,94,20.51
+b341facd-ff0a-40f1-a425-799aa905d750,Rebecca Miller,18,11,South Brendamouth,"Biology, Physics, History",2021-08-14,166fca8f-9162-4297-bdf3-aecebd9a324e,Ryan Aguirre,9,4.8,93,98,5.38
+67f8ab57-0572-4bb5-8bee-2ebdb44788bd,Scott Richards,13,11,Fernandeztown,"Math, Science, History",2021-02-27,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,62,94,51.61
+67af36d9-af04-4f81-b548-1bf2702cebbe,Kevin Gillespie,6,5,South Annette,English,2023-03-11,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,71,92,29.58
+a83299e9-fae4-4529-ba9f-cece50ed6af2,Katelyn Olson,8,11,Josephland,"Math, Physics",2023-11-26,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,97,98,1.03
+700b1433-f5d6-4476-a0f1-2d46e775f27e,Paul Fox,17,1,New Johnport,Biology,2022-04-14,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,84,86,2.38
+7eda9ab9-bec6-4ffe-a48f-4a254cd8ef24,Marc Johnson,12,5,Myerstown,"English, Math, History",2020-07-25,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,61,75,22.95
+5419eefc-d5e7-4e3f-a736-17d94d7bd307,Brian Hoffman,6,8,Wellsmouth,"Physics, Science, History",2021-01-21,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,91,93,2.2
+3085ee6d-a31c-45d2-8d96-a6a19dbdc6ff,Kimberly Brown,14,1,East Rebeccatown,English,2022-03-12,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,55,98,78.18
+3e332f35-086c-4768-b0fe-3cfc991ab513,Larry Stewart DDS,6,7,North Bryanbury,"Biology, Chemistry, Geography",2023-10-09,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,80,100,25.0
+b2c92c12-9bd9-4220-b38f-4acf66270136,Hannah Adams,11,12,Terriside,"Geography, Science, Chemistry",2021-09-15,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,95,100,5.26
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,61,88,44.26
+c9e6e630-9a55-4472-a15b-74ada3da4c94,Gregory Mack,18,6,Lake Deanna,Science,2021-09-05,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,57,76,33.33
+b3969057-425c-4200-905a-da6b720299e3,Joseph Freeman,15,7,North Troyport,"English, History, Math",2023-12-21,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,64,66,3.12
+ecadbb86-f16f-4487-b7f2-1e5cce0755e3,Michael Patel,7,7,Franciscoberg,Science,2022-10-24,48ef09a4-b8c0-4ce8-80a0-864341cb57da,Jose Porter,4,4.9,56,85,51.79
+dd6d47e4-90e0-472f-94dc-01bc0aa56583,Aaron Lee,12,5,Lake Amberton,English,2022-09-04,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,95,100,5.26
+700b1433-f5d6-4476-a0f1-2d46e775f27e,Paul Fox,17,1,New Johnport,Biology,2022-04-14,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,89,94,5.62
+f6aca9b4-5e14-4c30-bd2c-db8d39ebfa32,Peter Hall,12,1,Lake Kimberly,"Science, Chemistry",2023-01-20,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,59,94,59.32
+ecadbb86-f16f-4487-b7f2-1e5cce0755e3,Michael Patel,7,7,Franciscoberg,Science,2022-10-24,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,58,68,17.24
+b3969057-425c-4200-905a-da6b720299e3,Joseph Freeman,15,7,North Troyport,"English, History, Math",2023-12-21,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,66,68,3.03
+ac73189c-6fdc-4e00-a0d9-da583db4cb81,Amanda Houston,10,1,Charlesmouth,Chemistry,2022-09-11,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,89,99,11.24
+e53428bb-b20e-4719-a6b9-b21b94291726,Megan Sherman,7,11,East Ryan,"Chemistry, History, Biology",2022-04-03,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,97,99,2.06
+59f88a69-0466-4d6b-96ba-d500ded1b802,Karen Martinez,10,6,Christopherview,"Biology, Math",2021-11-16,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,74,94,27.03
+b29a8b06-daf6-4c5f-a577-bffac87a7463,Robert Walters,18,11,North Davidborough,Chemistry,2021-01-06,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,62,67,8.06
+69560c06-3008-4519-ad83-095163eaa005,Christopher Williams DVM,15,6,Pamhaven,Math,2021-08-05,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,90,99,10.0
+82f1240d-4e5c-4dd2-9dda-17a36779de0d,Calvin Anderson,8,12,Thorntonton,"Math, Science",2024-06-02,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,73,76,4.11
+681091fe-0a5a-4322-8578-42a9934c472a,Curtis Murphy,15,7,East Laurastad,"Physics, English",2020-03-28,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,56,64,14.29
+a38d8afc-fdd2-4d7a-b97c-cc57ce5dc807,Robert Gonzalez,14,12,North Paul,"History, Chemistry",2020-10-31,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,98,98,0.0
+0ea255e0-8e50-479a-8582-644479faf501,Samantha Cooper,9,5,North Ronaldstad,"Chemistry, Physics, English",2023-11-04,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,96,99,3.12
+40aaec7a-bf1d-4687-9a1e-c04271d04b0f,Seth Chambers,9,3,New Christopher,"English, History, Science",2020-08-06,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,94,98,4.26
+a1c2d9bf-0dcf-435b-b552-c6e86953a115,Mary Wong,6,6,Carpenterfort,"Geography, Physics, Math",2022-03-02,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,63,63,0.0
+e0397e67-9261-46de-91ba-cf80aaa07996,Brandon Weiss,11,11,Hunterville,"Physics, Geography",2021-03-28,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,87,99,13.79
+bda17da2-000f-463d-a2a0-1335a83023ab,Jonathon Scott,14,9,South Michelleport,Science,2023-06-21,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,58,62,6.9
+69560c06-3008-4519-ad83-095163eaa005,Christopher Williams DVM,15,6,Pamhaven,Math,2021-08-05,302d6194-ee55-4e17-9e5d-d6f9aabaa3a8,Kathleen Todd,3,3.7,75,85,13.33
+039d60ba-9c99-4735-95a6-52a708fce7af,Brian Joseph,9,4,New Angela,"History, Geography, Biology",2023-10-27,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,56,95,69.64
+421aa15e-f58c-43ce-b51d-70d8582dd972,Vincent Cox,14,2,Woodwardport,"Chemistry, Science, Math",2022-10-12,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,76,84,10.53
+e0f24eb3-af58-4381-89ac-2f36b202054f,Christy Johnson,14,9,Lutzburgh,"Math, Geography",2023-10-04,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,88,100,13.64
+b61b03e9-cb60-4efc-847e-330e99b702a2,Thomas Mcintosh,8,8,Brownstad,"Geography, Math",2022-03-05,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,81,95,17.28
+a7502a81-2227-496d-81a9-3f90dc821527,Marilyn Reed,9,11,West Melissa,Geography,2020-05-11,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,61,86,40.98
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,71,95,33.8
+c110412c-3843-4ed6-a586-94b6113c1836,Christopher Mayer,12,12,Zimmermanborough,"Physics, Math, Geography",2023-02-16,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,81,83,2.47
+743397f1-ad5b-4bb2-965a-f699d3bb63d7,Linda Davis,8,8,Lake Daletown,"History, Math",2021-03-16,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,53,76,43.4
+7499b28c-30c3-4323-81b1-99c45f1ff97c,Mark Huber,9,12,South Jonathantown,Physics,2024-06-03,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,50,97,94.0
+675e0c52-1eb9-4739-b8ac-dd816522ff46,Anthony Nelson,10,7,West Erinshire,"History, Physics, Math",2022-06-19,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,95,95,0.0
+faaf500c-a74b-4d20-8c3f-a29ffa4b0bc6,Richard Wright,14,12,West Carla,"Biology, Geography, Math",2023-04-22,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,57,87,52.63
+1de4ead3-362b-4eea-bdb6-3f3243cec809,Brenda Moon,14,1,Gileston,History,2022-07-17,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,94,94,0.0
+90ec8374-6862-4c24-a13a-6ad812b34a24,Tracy Reynolds,6,7,Sanchezfurt,"History, Geography, Physics",2021-11-30,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,50,65,30.0
+f66ac168-b4a1-4a79-9718-ada2027c013f,Emily Morris,16,4,Port Jonathan,"Math, Geography, Biology",2021-04-29,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,84,95,13.1
+12e0c8b2-bad6-40fb-9948-8dec4f65d4d9,Melinda Kennedy,17,7,West Ryanborough,Physics,2024-01-22,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,95,98,3.16
+0063b5c9-24fa-4196-b801-59870008cccf,Paul Chavez,14,2,East Nicholas,"Geography, History, English",2023-12-03,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,66,83,25.76
+5be12d09-908e-4372-bcbe-9a42f89d3fda,Mitchell Payne,13,3,Jeffreybury,Chemistry,2020-07-20,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,58,90,55.17
+4574a37e-9dbf-493f-bc03-1029253053ae,Chad Bridges,17,6,Dicksonburgh,"Physics, Geography",2021-09-09,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,53,81,52.83
+f172840f-3e19-40ba-ae09-ccfba3dee81f,Lori Dougherty,8,8,Benjaminfurt,"Science, English, History",2020-05-17,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,50,60,20.0
+ee4b0498-a5f3-4a63-a5cb-ed9fa5794917,Bradley Collins,8,8,Lake Bryan,History,2021-03-05,d18c9149-847e-4300-baad-e4d47593afba,Christina Price,18,4.9,80,91,13.75
+b9f94ec6-50ae-4652-89cd-3bdf356af737,Danielle Roy,6,8,West Max,"Biology, Physics, Math",2021-05-19,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,100,100,0.0
+7028dab4-8f0c-417a-b85f-2ec49d6fe1b5,Steven Farrell,16,10,Brooksland,"Biology, Science, Chemistry",2020-09-06,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,95,96,1.05
+3f739143-24dc-4a5a-b888-cb6597b19d4f,Christy Flores,12,6,Port Johnshire,"English, Geography, Chemistry",2024-06-01,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,65,76,16.92
+f0022e2e-2bd4-4ea0-8bbd-6b2f42f378f2,Adrian Smith,16,5,Jennyport,Geography,2020-12-23,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,82,90,9.76
+35045f77-c317-43d4-afa4-f554feb46b24,Kelli Hughes,16,8,Jasonshire,"Chemistry, Biology, Geography",2022-10-20,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,59,98,66.1
+675e0c52-1eb9-4739-b8ac-dd816522ff46,Anthony Nelson,10,7,West Erinshire,"History, Physics, Math",2022-06-19,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,72,89,23.61
+882ab925-80b2-4b0c-aa24-65cf16c2b4aa,Barbara Watkins,11,10,Barajasburgh,Math,2022-07-10,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,74,81,9.46
+b4577bf7-a251-40a8-9870-c707955fbc33,Dr. Ashley Maxwell,7,2,New Dawn,"History, Science",2024-05-14,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,54,66,22.22
+3e332f35-086c-4768-b0fe-3cfc991ab513,Larry Stewart DDS,6,7,North Bryanbury,"Biology, Chemistry, Geography",2023-10-09,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,69,91,31.88
+4509a7a7-a2bc-4350-a627-e31d71f5df2e,Matthew Berger,10,1,Christopherberg,English,2023-10-29,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,81,85,4.94
+56525ce0-3725-4d0c-b9c4-5c38b440ffe0,Andrew Martin,11,6,West Diamondberg,"Math, Chemistry",2020-07-16,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,94,99,5.32
+69560c06-3008-4519-ad83-095163eaa005,Christopher Williams DVM,15,6,Pamhaven,Math,2021-08-05,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,95,99,4.21
+c315d334-e47c-48ea-939e-5ca2b9e7f780,David Clark,15,7,Port Melissahaven,Physics,2020-07-27,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,61,85,39.34
+d370c51f-d8e2-4a4c-8d84-344baef472a7,Caitlyn Williams,7,1,Foxburgh,"Chemistry, Physics, Biology",2023-04-11,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,95,95,0.0
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,87,95,9.2
+5a505a98-45c5-4e39-881d-0ee198082cf3,Sheila Cruz,7,4,Jackburgh,Physics,2024-03-21,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,90,96,6.67
+3a05c0b7-3ddf-45b2-8151-28dbaf8c96a9,Dr. Donald Smith MD,11,4,Christopherport,"Chemistry, English, Geography",2023-08-05,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,99,99,0.0
+c81a58a6-6245-4749-b9a6-edc1099fb91b,Gloria Hunt,10,11,New Chase,"Science, English",2020-12-10,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,97,100,3.09
+64348207-3415-44cc-b7fd-7fd135cb60f2,Anne Morales DDS,10,9,Curryburgh,"Math, Biology",2020-04-10,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,79,95,20.25
+43fd46ff-d034-49a4-aca7-23c48f4ed442,Dean Graves,13,6,Kimberlyhaven,Chemistry,2023-11-19,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,53,63,18.87
+889c8ae2-4e3c-4f2d-8332-559dcad00273,Joseph Wright,7,1,North Robert,"Biology, Geography, History",2022-06-19,7fdf2229-2ce4-4e41-9961-640123d8c480,David Martinez,18,4.6,100,100,0.0
+3a05c0b7-3ddf-45b2-8151-28dbaf8c96a9,Dr. Donald Smith MD,11,4,Christopherport,"Chemistry, English, Geography",2023-08-05,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,98,98,0.0
+efdd35f8-0fa3-4266-8cfd-ba9bba26d851,Kimberly Oliver,6,1,Chadland,Math,2022-07-24,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,95,97,2.11
+7028dab4-8f0c-417a-b85f-2ec49d6fe1b5,Steven Farrell,16,10,Brooksland,"Biology, Science, Chemistry",2020-09-06,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,63,78,23.81
+06b42b6f-1f94-43c8-98a7-75945b8c4949,Christopher Gilbert,7,1,West Stephenside,Math,2024-03-21,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,65,79,21.54
+1759edc3-72ae-4244-8b01-63c1cd9d2b7d,Francisco Romero,10,11,Rodriguezside,"Science, Math, History",2022-06-23,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,55,70,27.27
+c74dd25c-6dbf-459c-837d-975248f3531c,Michelle Shah DDS,11,6,Veronicaborough,"History, Science, Geography",2023-09-03,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,95,97,2.11
+d576d415-5ec1-4dbe-976e-a1b164264cd5,Mrs. Alison Woodward,6,8,Lake David,"Physics, Science",2021-10-16,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,59,99,67.8
+fa7199d6-53e8-4886-9411-723a50b417eb,Randy Grimes,16,5,New Russell,Physics,2022-01-07,166fca8f-9162-4297-bdf3-aecebd9a324e,Ryan Aguirre,9,4.8,91,94,3.3
+e0f24eb3-af58-4381-89ac-2f36b202054f,Christy Johnson,14,9,Lutzburgh,"Math, Geography",2023-10-04,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,76,93,22.37
+b49b93d5-1e70-4e19-87f7-9ee0e299cb48,Andres Nelson,8,4,Wilsonport,"Biology, Science",2023-03-07,b8ecfe83-3a61-4c6c-a6ab-5199de931896,Shannon Trujillo,15,3.8,87,94,8.05
+beebb4ea-eab9-421b-8b36-b545cca1a034,Melanie Patrick,11,1,North Kimberly,"Geography, Chemistry",2023-10-13,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,98,98,0.0
+310dfbf4-d741-4ae8-8fa7-1765e757155d,Edward Terry,17,10,Fosterberg,Geography,2023-10-01,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,50,81,62.0
+5050f32c-d406-4cce-b73a-13fb37503d77,Mrs. Mary Hammond,18,11,Lake Loriport,Math,2022-10-01,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,79,79,0.0
+ce65b211-a3c9-48d7-aceb-18652fc339b9,Jason Arroyo,11,7,West Michael,History,2022-09-02,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,55,65,18.18
+771a0a12-2a6c-46cb-aa63-0fd171cf539d,Ronald Jackson,8,3,New Nicholasville,"Geography, Math, Chemistry",2020-11-08,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,52,63,21.15
+a6245b59-8c94-4f98-b338-6c3e1af4787f,James Frank,17,4,Rodriguezton,"Geography, History, English",2023-12-22,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,72,86,19.44
+bd03c81f-7ff3-4029-92bd-db3b649ec503,Henry Perkins,11,6,Lake Angelburgh,"Math, Biology, Chemistry",2020-02-14,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,57,96,68.42
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,62,88,41.94
+90ec8374-6862-4c24-a13a-6ad812b34a24,Tracy Reynolds,6,7,Sanchezfurt,"History, Geography, Physics",2021-11-30,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,73,83,13.7
+ac7c8803-e01b-4f50-b5d9-7ef760ef1471,Jennifer Morales,11,8,Bartonton,"History, Biology, Science",2021-05-29,48ef09a4-b8c0-4ce8-80a0-864341cb57da,Jose Porter,4,4.9,100,100,0.0
+d95e17e1-900f-42f7-8f4b-4ed5ac1d02e8,Jennifer Johnson,13,6,Jamesfurt,"English, Geography",2020-07-18,8c662964-801f-4c5f-b21a-11284586ce14,Ashley Gonzales,19,4.2,88,94,6.82
+024e8609-4486-4d26-8fd0-92769c017e5d,Mary Smith,14,3,Port Molly,"Physics, Geography, Math",2022-01-03,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,63,89,41.27
+3085ee6d-a31c-45d2-8d96-a6a19dbdc6ff,Kimberly Brown,14,1,East Rebeccatown,English,2022-03-12,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,51,93,82.35
+be792965-3c9a-4236-b2bb-e7b392b95731,Sharon Jacobson,7,5,East Frankland,Geography,2023-08-18,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,71,98,38.03
+848edc98-eec9-4a67-8cc6-72fc3006ff85,Barbara Brown,16,10,Benjaminburgh,Math,2023-12-26,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,57,98,71.93
+4279b14d-ae55-4dff-b4ab-18fd0a68e88e,Theresa Mays,17,10,Port Karafort,"Chemistry, Science, Math",2023-11-26,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,55,86,56.36
+c5cf255f-278d-44f6-88df-480ea3b4e529,Philip Taylor,13,10,West Adammouth,"English, Physics",2021-03-27,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,99,99,0.0
+6f9179cf-0018-4cfe-8eb0-92207984f33f,William Williams,16,10,Anthonystad,"Math, History",2023-02-15,180aa66a-e45f-4e18-9b85-f2b467706bef,Kenneth Garcia,10,5.0,56,100,78.57
+9cf600ec-1c3c-4d35-a1d4-fb7e22587c89,Andre Ray,13,11,Jonesland,"English, Science",2023-08-14,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,99,100,1.01
+9766c143-9c9a-4cff-a6b1-8865a878e876,Laurie Shepard,10,9,North Brian,"Chemistry, Geography",2020-04-07,166fca8f-9162-4297-bdf3-aecebd9a324e,Ryan Aguirre,9,4.8,64,96,50.0
+b5c99b49-751f-4e54-a0e7-74869ed9c124,Lance King,18,1,Johnsonton,"History, Math, Geography",2024-03-22,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,95,100,5.26
+743397f1-ad5b-4bb2-965a-f699d3bb63d7,Linda Davis,8,8,Lake Daletown,"History, Math",2021-03-16,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,97,100,3.09
+4fdc1351-5ba8-40dc-a45d-b6ca6f6a2196,Gary Hatfield,12,8,Reyeschester,"Geography, Chemistry",2022-03-30,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,89,100,12.36
+5e7cfaad-73df-470a-ad0c-abfc1baf01f1,Dawn Tucker,18,9,East Anna,"Physics, Biology",2020-08-30,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,53,99,86.79
+42af9fc3-8577-4e9a-9d84-f39e71545a13,Thomas Moon,9,4,Lake Marytown,History,2024-03-13,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,64,67,4.69
+d2fb05ca-3a72-4b9f-96fb-5c72ed6a1bfc,Taylor Williams,14,9,Courtneyshire,"Math, English",2024-02-15,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,69,75,8.7
+c9e6e630-9a55-4472-a15b-74ada3da4c94,Gregory Mack,18,6,Lake Deanna,Science,2021-09-05,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,79,94,18.99
+0212585b-0b2f-4580-b3f0-53233bd5f8a2,Aaron Wilson,15,2,North Joyce,"Geography, English",2021-09-06,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,80,82,2.5
+4ae302f3-b31e-4be8-a3ef-802edf8693ce,Cristina Walton,9,6,Jameschester,"English, Biology, History",2023-12-02,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,82,97,18.29
+2f120554-4a53-48cc-bdfa-bc08935ddd72,Cody Salazar,10,6,Thomasland,Math,2021-02-08,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,84,86,2.38
+38dfe76b-ae35-4290-ad80-ab08c963d148,Jennifer Morse,12,4,Leeville,Biology,2020-09-23,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,81,92,13.58
+b4fbf350-24bf-4792-b9fa-33cd035e4eb9,Pamela Thomas,11,11,Port Kathryn,"Chemistry, History",2021-07-04,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,93,99,6.45
+3239d04b-cbab-4b51-b85c-5fdcbad3116b,Dan Mckinney,10,3,Johnsonland,"English, Physics, Geography",2021-08-03,ee9d0e10-f9d7-479d-bd0b-fd3ba7d8baef,Peggy White,14,4.0,54,76,40.74
+4815642c-a2bb-4283-bd83-ad7c39f706d4,Vincent Bell,15,3,South Steven,"Science, History, Chemistry",2021-03-04,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,68,71,4.41
+120a202f-e11a-45c3-a5ef-c3a9503a65d5,Andrew Newman,6,12,Lake Carlosview,"History, Geography",2022-07-29,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,85,87,2.35
+120a202f-e11a-45c3-a5ef-c3a9503a65d5,Andrew Newman,6,12,Lake Carlosview,"History, Geography",2022-07-29,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,86,90,4.65
+d432f8db-6a17-4c1c-bf9c-c545635518f7,April Lee,11,10,Ernestbury,Chemistry,2023-10-24,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,98,98,0.0
+5be12d09-908e-4372-bcbe-9a42f89d3fda,Mitchell Payne,13,3,Jeffreybury,Chemistry,2020-07-20,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,50,66,32.0
+18700fd5-4789-4708-9b08-fdc11162ce26,John Deleon,10,8,Braunland,"History, English",2021-03-15,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,57,93,63.16
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,c6eb245e-4b7b-427a-a20e-222447d35352,Gloria Gutierrez,11,4.8,94,95,1.06
+e93b4418-b170-41ed-9b04-0be38f41d3e4,Jordan West,18,11,South Amy,Physics,2021-02-04,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,84,89,5.95
+f3cc9d8a-4b16-48e4-9f20-f4063438b4e4,Travis Hogan,9,8,Danielberg,"Biology, Science, Geography",2023-10-18,b8ed3aa4-681b-470b-82e4-dc34a7f83cd9,Alex Peters,5,3.5,55,87,58.18
+f6aca9b4-5e14-4c30-bd2c-db8d39ebfa32,Peter Hall,12,1,Lake Kimberly,"Science, Chemistry",2023-01-20,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,82,95,15.85
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,85,97,14.12
+567e5862-ef15-4673-a1df-3da79d44c93e,Tracy Reeves,14,11,Kristinaberg,Biology,2023-04-19,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,69,81,17.39
+882ab925-80b2-4b0c-aa24-65cf16c2b4aa,Barbara Watkins,11,10,Barajasburgh,Math,2022-07-10,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,61,92,50.82
+78edd1c6-e981-44a4-b894-cf22c2dc9456,Michael Gomez,9,8,Ortizshire,"History, Math",2020-11-23,783d4a6d-4d4e-4e29-99c5-e64cb8c6773e,Elizabeth Meyers,6,4.2,77,78,1.3
+c5cf255f-278d-44f6-88df-480ea3b4e529,Philip Taylor,13,10,West Adammouth,"English, Physics",2021-03-27,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,94,96,2.13
+c5cf255f-278d-44f6-88df-480ea3b4e529,Philip Taylor,13,10,West Adammouth,"English, Physics",2021-03-27,7fdf2229-2ce4-4e41-9961-640123d8c480,David Martinez,18,4.6,84,99,17.86
+ff4533fe-bc6f-46ac-a139-d15d48d8b9ef,Natalie Robertson,11,2,North Paulview,"Math, Geography, English",2021-01-02,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,79,83,5.06
+ff4533fe-bc6f-46ac-a139-d15d48d8b9ef,Natalie Robertson,11,2,North Paulview,"Math, Geography, English",2021-01-02,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,87,94,8.05
+33e9e55e-4024-42a3-8334-f55802cee581,Jasmine Rowe,17,4,Terryton,"Physics, Geography",2023-12-16,2328d866-975e-4ac2-b08d-f7c1e20fed4b,Daniel Howard,13,4.6,89,99,11.24
+7f6b8793-b318-4d4c-9db2-b4527aa56a18,Eric Navarro,9,2,East Courtney,Math,2023-03-12,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,100,100,0.0
+681091fe-0a5a-4322-8578-42a9934c472a,Curtis Murphy,15,7,East Laurastad,"Physics, English",2020-03-28,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,65,72,10.77
+d181d9bf-aa09-4a46-b25a-3c68e8ef99e9,Deanna Salazar,8,10,New Sharonview,"Biology, Chemistry",2021-06-24,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,92,95,3.26
+92d6ff73-5b3a-4595-8458-92c14e0e15d3,Morgan Hernandez,12,9,South Courtneytown,Physics,2022-01-20,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,85,87,2.35
+df14c612-5f58-45b5-af79-0959a3e04b3b,Christine Matthews,15,12,East Edwardmouth,"Math, Biology",2022-11-14,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,65,99,52.31
+0f013f4e-7396-4f8e-baa8-3536d3d779d5,David Russell,15,2,West Deniseborough,"Physics, Geography",2020-10-03,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,63,69,9.52
+14dbad22-15ea-49d2-9e3d-59d070aaf525,Ronald Moore,15,5,South Cheyenne,History,2023-08-19,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,53,68,28.3
+ac7c8803-e01b-4f50-b5d9-7ef760ef1471,Jennifer Morales,11,8,Bartonton,"History, Biology, Science",2021-05-29,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,71,91,28.17
+25323fd3-c9f3-4bf8-8d03-cbddcc869dea,William Stephens,7,7,East Michelle,"English, Chemistry",2023-07-20,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,73,82,12.33
+0f013f4e-7396-4f8e-baa8-3536d3d779d5,David Russell,15,2,West Deniseborough,"Physics, Geography",2020-10-03,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,100,100,0.0
+663eab2b-c832-45cc-995d-767b0c1333ce,Nicholas Phillips,14,7,Mcclainside,English,2020-06-19,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,61,71,16.39
+ff4533fe-bc6f-46ac-a139-d15d48d8b9ef,Natalie Robertson,11,2,North Paulview,"Math, Geography, English",2021-01-02,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,90,100,11.11
+d2fb05ca-3a72-4b9f-96fb-5c72ed6a1bfc,Taylor Williams,14,9,Courtneyshire,"Math, English",2024-02-15,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,85,98,15.29
+fea2a33a-51d1-4bcd-9a23-754bef38d426,Justin Mitchell,13,10,Lake Kenneth,Physics,2023-10-04,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,63,79,25.4
+23e86d63-8278-41e5-aadb-6a6783add758,Kelly Mccullough,13,2,Starkview,"English, Physics",2023-09-08,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,97,98,1.03
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,b97155a0-d334-4b0a-a96e-77d2ea853efa,Mark Montoya,6,4.1,67,78,16.42
+4053b188-339d-48f5-9658-b1b33012ae1c,Nancy Collins,10,10,Scottstad,"Chemistry, Science",2022-01-15,48ef09a4-b8c0-4ce8-80a0-864341cb57da,Jose Porter,4,4.9,87,93,6.9
+ac73189c-6fdc-4e00-a0d9-da583db4cb81,Amanda Houston,10,1,Charlesmouth,Chemistry,2022-09-11,1744bed8-cc2f-4e64-8b31-ec7eab39109c,James Thompson,4,4.7,71,97,36.62
+141bd896-6092-4d2b-8122-9d756a8d3e84,Gabriela Short,18,5,South John,Biology,2024-02-02,964ede98-ce62-4939-af5d-5c6294028d9a,Lisa Clark,13,3.8,51,89,74.51
+afb120f4-14d4-4ad6-9dfa-e808afd86432,Tammy Foster,18,8,Blaketown,History,2022-04-19,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,51,100,96.08
+e389adef-4d1d-4659-8736-e1668042e02f,Joshua Roberts,12,8,East Samanthaville,Biology,2021-05-26,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,88,91,3.41
+af273f40-55cd-472e-8b10-cf68b7691470,Victor Bond,10,1,Ayalaview,Geography,2021-05-06,5e3fafbf-fc06-43de-adb3-a8a79e9e44c5,Christine Cortez,11,4.4,96,98,2.08
+3239d04b-cbab-4b51-b85c-5fdcbad3116b,Dan Mckinney,10,3,Johnsonland,"English, Physics, Geography",2021-08-03,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,56,62,10.71
+b4577bf7-a251-40a8-9870-c707955fbc33,Dr. Ashley Maxwell,7,2,New Dawn,"History, Science",2024-05-14,8b67e0d3-05d7-4967-ad96-35ef1426a5dc,Patrick Stevenson,3,4.4,76,78,2.63
+663eab2b-c832-45cc-995d-767b0c1333ce,Nicholas Phillips,14,7,Mcclainside,English,2020-06-19,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,92,92,0.0
+5e7f503c-4b13-47f6-81d6-d903bf7b68ae,Tasha Hall,9,6,East Shawn,"Biology, Physics",2024-01-21,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,96,98,2.08
+4598244b-f0bd-4405-a50d-d400a27ee80d,Stephen Ayala,14,10,Christophertown,Physics,2024-03-10,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,92,98,6.52
+e87a1613-e443-4f78-9558-867f5ba91faf,Charles Taylor,8,3,New Laurenside,"History, Science, Physics",2021-04-01,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,89,93,4.49
+606e8502-002f-4cc4-896b-fafff5b7751f,Tony Dominguez,17,5,East Kimberly,Geography,2021-05-08,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,80,87,8.75
+024e8609-4486-4d26-8fd0-92769c017e5d,Mary Smith,14,3,Port Molly,"Physics, Geography, Math",2022-01-03,d866e735-f4a6-4316-8851-c1df7d1e162d,Glenn Warren,7,4.9,52,72,38.46
+185aeb98-3d9f-4e80-bba6-857733964543,Jennifer Clay,9,6,New James,History,2024-03-07,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,70,97,38.57
+675e0c52-1eb9-4739-b8ac-dd816522ff46,Anthony Nelson,10,7,West Erinshire,"History, Physics, Math",2022-06-19,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,77,98,27.27
+3085ee6d-a31c-45d2-8d96-a6a19dbdc6ff,Kimberly Brown,14,1,East Rebeccatown,English,2022-03-12,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,88,88,0.0
+dbf9a793-ecb9-4b39-b103-d90417426bd0,Carlos Lee,9,8,Burkeview,Geography,2024-01-04,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,72,90,25.0
+e93b4418-b170-41ed-9b04-0be38f41d3e4,Jordan West,18,11,South Amy,Physics,2021-02-04,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,78,85,8.97
+67f8ab57-0572-4bb5-8bee-2ebdb44788bd,Scott Richards,13,11,Fernandeztown,"Math, Science, History",2021-02-27,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,57,65,14.04
+67f8ab57-0572-4bb5-8bee-2ebdb44788bd,Scott Richards,13,11,Fernandeztown,"Math, Science, History",2021-02-27,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,80,84,5.0
+67af36d9-af04-4f81-b548-1bf2702cebbe,Kevin Gillespie,6,5,South Annette,English,2023-03-11,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,76,96,26.32
+8930d179-52ab-493f-91ab-f5e5cb775e24,Frederick Johnson,6,3,East Miguelborough,"Physics, Science",2022-12-10,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,88,99,12.5
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,56,88,57.14
+cd00f428-8ec1-4f83-9679-ddccfc8847d2,Brendan Herring,7,6,Penabury,"Chemistry, Physics",2023-05-06,d7fab5bc-1dc1-4ea2-af06-771ef7f6b599,Kelli Warner,3,4.0,90,95,5.56
+f6aca9b4-5e14-4c30-bd2c-db8d39ebfa32,Peter Hall,12,1,Lake Kimberly,"Science, Chemistry",2023-01-20,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,55,57,3.64
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,e412eb0b-d260-430d-aedc-5fdd27ef0967,Benjamin Garcia DVM,9,4.2,68,78,14.71
+59f88a69-0466-4d6b-96ba-d500ded1b802,Karen Martinez,10,6,Christopherview,"Biology, Math",2021-11-16,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,68,92,35.29
+169e98ce-a771-4b3c-9f11-8a429cd3a795,Chad Dorsey,6,1,Port Andrew,"History, Biology, English",2022-05-28,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,52,52,0.0
+4509a7a7-a2bc-4350-a627-e31d71f5df2e,Matthew Berger,10,1,Christopherberg,English,2023-10-29,3da104bc-f565-482a-b9a9-75ca28b671b8,Joseph Green,14,4.4,89,92,3.37
+1624d318-a326-42e8-a1ab-17c0766229cc,Mr. Aaron Hale,16,10,Smithport,"History, Geography",2020-12-21,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,85,85,0.0
+14afe646-fe32-46bd-97d0-1e702f1d9bef,Kevin Moore,11,10,East Linda,English,2022-09-08,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,83,93,12.05
+e93b4418-b170-41ed-9b04-0be38f41d3e4,Jordan West,18,11,South Amy,Physics,2021-02-04,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,68,82,20.59
+9f3da6ae-5295-4caf-8f65-1f216fa2be13,Cheryl Jenkins,11,11,Lake David,"Science, Geography",2023-01-15,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,74,87,17.57
+b5c99b49-751f-4e54-a0e7-74869ed9c124,Lance King,18,1,Johnsonton,"History, Math, Geography",2024-03-22,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,63,99,57.14
+2b12c92c-6256-4a95-9487-b5c3b7626f49,Matthew Mcdaniel,17,7,South Sarah,"Geography, Math",2021-04-03,c317310d-db21-41c5-9551-d5e34f47bc94,Chelsea Banks,2,3.8,82,93,13.41
+3e70f16a-5548-4822-9e1b-372ad3fbf47a,Michele Brown,8,5,East Linda,"History, Geography",2021-03-18,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,78,86,10.26
+f20e8bda-39cc-4d88-832f-594d0b82b61c,Andrea Brown,10,7,Taylorborough,"Math, Physics, Science",2023-10-26,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,87,87,0.0
+b287c440-7881-407d-ae77-1359677abeb7,Amy Fletcher,18,7,Jamesberg,Science,2021-11-18,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,67,88,31.34
+f172840f-3e19-40ba-ae09-ccfba3dee81f,Lori Dougherty,8,8,Benjaminfurt,"Science, English, History",2020-05-17,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,88,99,12.5
+a6894303-e807-492d-b4ca-0c564d390362,Rachel Lee,10,11,Stephenland,"History, Science, Chemistry",2020-02-26,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,96,99,3.12
+35783f66-2114-42d6-90ea-1324862f78e1,Jill Clarke,14,10,Simmonsfort,English,2023-04-25,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,77,92,19.48
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,82,90,9.76
+f190cb53-b489-45c7-a22f-6e82ecdd001e,Peter Anderson,10,5,Lake John,Physics,2022-07-19,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,70,98,40.0
+3e332f35-086c-4768-b0fe-3cfc991ab513,Larry Stewart DDS,6,7,North Bryanbury,"Biology, Chemistry, Geography",2023-10-09,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,97,100,3.09
+7eda9ab9-bec6-4ffe-a48f-4a254cd8ef24,Marc Johnson,12,5,Myerstown,"English, Math, History",2020-07-25,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,68,84,23.53
+5be12d09-908e-4372-bcbe-9a42f89d3fda,Mitchell Payne,13,3,Jeffreybury,Chemistry,2020-07-20,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,94,94,0.0
+d576d415-5ec1-4dbe-976e-a1b164264cd5,Mrs. Alison Woodward,6,8,Lake David,"Physics, Science",2021-10-16,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,78,94,20.51
+fae3fcee-7636-4fd9-8376-ffa876fe579f,Yvonne Poole,9,12,Lake Reginald,"Geography, English, Science",2022-08-24,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,74,79,6.76
+d977e993-3c49-476f-8fc6-e62585940927,Michael Bryan,8,5,Rileymouth,Math,2024-03-10,b7b52ef6-e781-471b-bd62-91167a764f13,Martha Lee,12,3.8,92,94,2.17
+44933c86-49ad-4e95-b837-e5069398dbd6,Jamie Smith,12,6,New Kimland,"Geography, English",2020-02-01,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,78,92,17.95
+04e6748a-7f3a-47dc-b339-0a6ea0b87e45,Danielle Snow,10,1,Jacobchester,English,2020-08-30,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,86,90,4.65
+6239f30a-7052-4bb6-90c6-735014b3f264,Kimberly Arnold,17,11,East Douglasfurt,"Biology, History, Geography",2024-05-07,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,95,100,5.26
+7d5d9031-e80b-47eb-a499-99cf87e51bbc,Joshua Jones,16,1,Goodwinborough,"Science, Geography, English",2023-07-26,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,79,82,3.8
+e3e70682-c209-4cac-a29f-6fbed82c07cd,David Dixon,13,8,Hullport,Science,2024-01-20,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,91,91,0.0
+07b6e08e-6ac1-4a75-afb9-18c86e5bac20,Sean Nguyen III,14,5,Chadstad,"Biology, Chemistry",2020-04-01,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,60,80,33.33
+d95e17e1-900f-42f7-8f4b-4ed5ac1d02e8,Jennifer Johnson,13,6,Jamesfurt,"English, Geography",2020-07-18,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,63,92,46.03
+2076d932-919c-41ed-9471-33e75ac5f4f0,Diana Short,11,10,Wellshaven,"Biology, Physics",2021-02-24,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,88,89,1.14
+9bc69882-5a7c-431a-a275-9469c28d2ad5,Lori Lester,11,1,New Maryhaven,"Math, Physics, Science",2023-01-19,4f0fa9db-4b6a-4fea-81cf-7f935e6cc9e4,Andrew Williams,19,4.5,78,98,25.64
+43fd46ff-d034-49a4-aca7-23c48f4ed442,Dean Graves,13,6,Kimberlyhaven,Chemistry,2023-11-19,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,67,84,25.37
+9e76ef95-c43e-4bcc-af69-ed695e349e31,Alexander Romero,16,9,New Michaelstad,Science,2021-07-12,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,75,88,17.33
+ade7cef3-7ed2-4c2f-856f-3d95e0ae1a1b,Erica Jimenez,16,6,Reidborough,"Science, History",2021-11-10,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,60,74,23.33
+5a505a98-45c5-4e39-881d-0ee198082cf3,Sheila Cruz,7,4,Jackburgh,Physics,2024-03-21,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,95,97,2.11
+3239d04b-cbab-4b51-b85c-5fdcbad3116b,Dan Mckinney,10,3,Johnsonland,"English, Physics, Geography",2021-08-03,0c445964-acdb-4ccc-900d-cfdbc413b8e8,Monique Jacobson,4,3.9,81,98,20.99
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,83,86,3.61
+c4841a8d-2f75-4bde-a616-3e5beda2fc4c,Christopher Chung,15,7,Sharonberg,"Physics, Science, Math",2023-01-09,783d4a6d-4d4e-4e29-99c5-e64cb8c6773e,Elizabeth Meyers,6,4.2,98,100,2.04
+039d60ba-9c99-4735-95a6-52a708fce7af,Brian Joseph,9,4,New Angela,"History, Geography, Biology",2023-10-27,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,51,51,0.0
+7028dab4-8f0c-417a-b85f-2ec49d6fe1b5,Steven Farrell,16,10,Brooksland,"Biology, Science, Chemistry",2020-09-06,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,97,99,2.06
+b87c6dd3-bcee-4fb1-943c-41b564661891,Stephanie Evans,18,4,New Davidfort,"Chemistry, History",2023-02-25,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,96,99,3.12
+b87c6dd3-bcee-4fb1-943c-41b564661891,Stephanie Evans,18,4,New Davidfort,"Chemistry, History",2023-02-25,b8ecfe83-3a61-4c6c-a6ab-5199de931896,Shannon Trujillo,15,3.8,80,81,1.25
+98c75205-1e01-4934-802d-0baf878b9f6b,Mary Smith,7,6,Mcculloughhaven,Geography,2022-08-25,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,62,66,6.45
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Christopher Howard,16,3,Lake Leah,Science,2024-03-23,140895d0-281b-4255-8fc7-6634cea323b4,Peter Boyer,8,5.0,60,74,23.33
+61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Kathryn Berry,8,6,Lake Ronaldborough,"English, Chemistry, Biology",2022-06-18,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,98,99,1.02
+735b3a80-3fbd-4eed-b23d-c8f5b17078ee,Stephanie Stanley,6,8,Alexanderberg,"Geography, Chemistry, Physics",2022-12-27,114eb0da-b17b-48ae-9eb5-b9e5d838f3ce,Sabrina Nelson,18,4.2,63,73,15.87
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,83,96,15.66
+5a505a98-45c5-4e39-881d-0ee198082cf3,Sheila Cruz,7,4,Jackburgh,Physics,2024-03-21,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,50,70,40.0
+e0f24eb3-af58-4381-89ac-2f36b202054f,Christy Johnson,14,9,Lutzburgh,"Math, Geography",2023-10-04,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,93,93,0.0
+3e70f16a-5548-4822-9e1b-372ad3fbf47a,Michele Brown,8,5,East Linda,"History, Geography",2021-03-18,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,77,90,16.88
+2367ad9e-8dcd-4d64-b9e8-e4ee8b7f6d7a,Daniel Perez,12,9,Port Trevor,"History, Chemistry, Biology",2022-06-13,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,65,99,52.31
+f3cc9d8a-4b16-48e4-9f20-f4063438b4e4,Travis Hogan,9,8,Danielberg,"Biology, Science, Geography",2023-10-18,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,50,70,40.0
+84eaf943-2ee6-4e21-93fb-2ed1b9534807,Michelle Wheeler,8,11,Hernandezfort,"Biology, Physics",2021-10-24,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,61,64,4.92
+a38d8afc-fdd2-4d7a-b97c-cc57ce5dc807,Robert Gonzalez,14,12,North Paul,"History, Chemistry",2020-10-31,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,89,97,8.99
+4598244b-f0bd-4405-a50d-d400a27ee80d,Stephen Ayala,14,10,Christophertown,Physics,2024-03-10,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,84,92,9.52
+970a06dc-f444-4dae-9d21-ae7c60252b8d,Anna Phelps,6,6,Thomasview,"Physics, Biology",2021-08-29,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,55,89,61.82
+2076d932-919c-41ed-9471-33e75ac5f4f0,Diana Short,11,10,Wellshaven,"Biology, Physics",2021-02-24,d2e922b3-e80a-4294-b3cf-eea6aac41158,Cody Myers,5,3.8,98,98,0.0
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,52,70,34.62
+47b3df41-67c2-4355-8312-1af68b32992a,Alison Nelson,10,3,North Jonathanhaven,"History, Chemistry",2023-05-16,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,73,75,2.74
+832c9b79-60c8-45a0-9560-e64c55f7792a,Ryan Fields,14,2,West Sara,"History, Physics",2021-07-21,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,73,83,13.7
+f902d6c0-5bf5-4279-8704-768e6e927501,Ralph Kaiser,7,9,South Rebeccaville,"Physics, Chemistry",2023-10-17,74020ea1-9b39-485e-89cf-17ba2a51d1ea,Victoria Crawford,20,4.1,84,98,16.67
+67af36d9-af04-4f81-b548-1bf2702cebbe,Kevin Gillespie,6,5,South Annette,English,2023-03-11,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,88,90,2.27
+14dbad22-15ea-49d2-9e3d-59d070aaf525,Ronald Moore,15,5,South Cheyenne,History,2023-08-19,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,85,94,10.59
+889c8ae2-4e3c-4f2d-8332-559dcad00273,Joseph Wright,7,1,North Robert,"Biology, Geography, History",2022-06-19,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,65,98,50.77
+028d042b-2d8b-4b41-990e-83da586f1721,Crystal Diaz,14,12,East Aaron,Geography,2021-01-17,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,96,100,4.17
+3e332f35-086c-4768-b0fe-3cfc991ab513,Larry Stewart DDS,6,7,North Bryanbury,"Biology, Chemistry, Geography",2023-10-09,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,68,87,27.94
+0c15a575-09c6-4c1d-80f2-460382951fe0,Ashley Carr,15,9,Lake Kristin,Physics,2020-03-23,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,82,100,21.95
+0ea255e0-8e50-479a-8582-644479faf501,Samantha Cooper,9,5,North Ronaldstad,"Chemistry, Physics, English",2023-11-04,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,70,71,1.43
+c74dd25c-6dbf-459c-837d-975248f3531c,Michelle Shah DDS,11,6,Veronicaborough,"History, Science, Geography",2023-09-03,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,58,95,63.79
+cdd592a0-aeff-488b-b5ec-a796dc5f3db7,Julie Green,15,8,Jacquelinefurt,"English, Geography",2021-05-19,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,85,93,9.41
+f20e8bda-39cc-4d88-832f-594d0b82b61c,Andrea Brown,10,7,Taylorborough,"Math, Physics, Science",2023-10-26,81992dc5-d748-4a76-80aa-f97e454b57c1,Scott Stanley,13,4.2,60,70,16.67
+b0f1bb1d-8e10-4ed6-92d0-72230b20ee0f,Lynn Herring,10,12,Laurenland,Biology,2020-09-07,746c8933-eee6-4c71-ae16-6b743841ed43,Kimberly Harris,15,3.6,96,97,1.04
+028d042b-2d8b-4b41-990e-83da586f1721,Crystal Diaz,14,12,East Aaron,Geography,2021-01-17,c2f27fc1-b210-4ccd-a51e-0bdec816c4aa,Crystal Washington,13,4.4,97,98,1.03
+f45aa79b-d855-4b35-9763-b159ed9a189a,Emily Whitehead,12,6,Richardberg,"Chemistry, English, Math",2021-04-03,fdfcbce0-d6fd-4516-ab1a-37c623ed6d79,Stuart Shepard,3,4.6,76,99,30.26
+de6d2d7e-9f31-4acb-a362-dbc180245320,Sara Lyons,10,1,West Johnburgh,"Science, Geography",2022-02-05,333a1d71-52d1-4e24-bf3b-a58ed02fe513,Mrs. Rebecca Thomas,5,3.6,58,91,56.9
+9e76ef95-c43e-4bcc-af69-ed695e349e31,Alexander Romero,16,9,New Michaelstad,Science,2021-07-12,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,81,95,17.28
+5419eefc-d5e7-4e3f-a736-17d94d7bd307,Brian Hoffman,6,8,Wellsmouth,"Physics, Science, History",2021-01-21,783d4a6d-4d4e-4e29-99c5-e64cb8c6773e,Elizabeth Meyers,6,4.2,50,52,4.0
+4d18c103-a100-4d14-ba92-cd28c4c536fb,Brooke Mccarthy,18,5,Davisfort,"Physics, Chemistry, History",2021-12-22,27836433-60c3-446c-bc6b-f04b5a3d4eac,David Lutz,15,4.8,72,75,4.17
+a38d8afc-fdd2-4d7a-b97c-cc57ce5dc807,Robert Gonzalez,14,12,North Paul,"History, Chemistry",2020-10-31,be98e6d2-0bf2-41da-830e-055ceb76dbed,Dr. Whitney Wong,3,3.7,80,88,10.0
+5e87905a-a1fd-4df1-b1df-24d93f80c31f,Kendra Bennett,13,8,South Suzannemouth,Science,2023-10-03,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,58,66,13.79
+d466c772-5df5-472b-9ba4-8aa0aab6941b,Kathryn Barker,15,8,North Timothy,Biology,2021-09-12,778d028c-e45e-45b9-a9f8-2b8b7dd5d97e,Sherri Richardson,11,4.3,96,98,2.08
+0063b5c9-24fa-4196-b801-59870008cccf,Paul Chavez,14,2,East Nicholas,"Geography, History, English",2023-12-03,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,82,89,8.54
+e5e6190b-28da-4b89-8130-8a09cddd03bb,David Espinoza,11,6,Fisherburgh,"Biology, Physics, Chemistry",2023-07-26,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,92,98,6.52
+47b3df41-67c2-4355-8312-1af68b32992a,Alison Nelson,10,3,North Jonathanhaven,"History, Chemistry",2023-05-16,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,54,89,64.81
+a0f9c074-9177-46d4-9f2e-9167713eceb1,Caleb Martinez,6,9,Garzaberg,English,2022-07-17,9ed03a7e-cfc8-4b4e-8ab6-8ee401975d43,Selena Navarro,8,4.5,60,83,38.33
+039d60ba-9c99-4735-95a6-52a708fce7af,Brian Joseph,9,4,New Angela,"History, Geography, Biology",2023-10-27,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,83,88,6.02
+c315d334-e47c-48ea-939e-5ca2b9e7f780,David Clark,15,7,Port Melissahaven,Physics,2020-07-27,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,67,80,19.4
+84eaf943-2ee6-4e21-93fb-2ed1b9534807,Michelle Wheeler,8,11,Hernandezfort,"Biology, Physics",2021-10-24,2308b506-cf31-42c4-925b-65b14483cf58,Jack Marsh,3,3.9,85,91,7.06
+970a06dc-f444-4dae-9d21-ae7c60252b8d,Anna Phelps,6,6,Thomasview,"Physics, Biology",2021-08-29,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,55,79,43.64
+b5c99b49-751f-4e54-a0e7-74869ed9c124,Lance King,18,1,Johnsonton,"History, Math, Geography",2024-03-22,900e7701-f888-432e-b45a-6a8736e11fc9,Robert Thompson,20,4.0,63,66,4.76
+b5f767d3-2111-49a5-baaa-d22c8c372aad,Keith Ferguson,12,9,Bradshawport,Science,2020-10-21,08153b1f-f77b-4c86-aa32-49e632ab7704,Nicole Macdonald,12,4.2,88,91,3.41
+99c7abea-6756-464d-8864-9f787eaf1679,Christopher Kramer,13,3,South Davidtown,Chemistry,2024-02-01,a83ae027-01d1-4888-8541-01742e34cc4c,Jennifer Chen,12,4.7,54,70,29.63
+a9452a96-a123-4c72-89ac-e04913bd01ae,Cole Guzman,7,6,Ericberg,"Biology, History, Chemistry",2023-08-27,f290d831-052d-443c-a3a6-152695e3f329,Brandy Garcia,17,4.9,73,94,28.77
+3239d04b-cbab-4b51-b85c-5fdcbad3116b,Dan Mckinney,10,3,Johnsonland,"English, Physics, Geography",2021-08-03,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,76,78,2.63
+23e86d63-8278-41e5-aadb-6a6783add758,Kelly Mccullough,13,2,Starkview,"English, Physics",2023-09-08,09b12bc9-8805-4048-b53a-7cec4fbf545a,Christopher Kemp,3,4.5,83,98,18.07
+e0f24eb3-af58-4381-89ac-2f36b202054f,Christy Johnson,14,9,Lutzburgh,"Math, Geography",2023-10-04,302d6194-ee55-4e17-9e5d-d6f9aabaa3a8,Kathleen Todd,3,3.7,66,83,25.76
+39b66d71-951a-4518-87e7-7e2b6b291a13,Erik Stokes,11,3,Prestonville,Science,2023-08-09,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,51,89,74.51
+d466c772-5df5-472b-9ba4-8aa0aab6941b,Kathryn Barker,15,8,North Timothy,Biology,2021-09-12,7f571b98-2bc3-4de0-9d08-20e0a24921ff,Keith Watkins,16,4.1,65,74,13.85
+3d792fa1-2284-47a4-87e7-f5938b5885ca,Karen Bishop,13,1,Brittanyberg,"Chemistry, English",2022-08-22,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,100,100,0.0
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Christopher Howard,16,3,Lake Leah,Science,2024-03-23,b8ecfe83-3a61-4c6c-a6ab-5199de931896,Shannon Trujillo,15,3.8,84,85,1.19
+5419eefc-d5e7-4e3f-a736-17d94d7bd307,Brian Hoffman,6,8,Wellsmouth,"Physics, Science, History",2021-01-21,e89a006d-7163-4db0-80af-906697046d7c,Tracy Johnson,20,4.6,80,89,11.25
+061f5679-6908-4bd6-af61-7cacc674d244,Stephen Tran,7,2,Walkerbury,"Geography, English",2022-02-25,73de1a9e-87f3-4a2b-ac0e-b235e6effcd1,Pamela Sims,10,3.9,60,69,15.0
+3e37355e-fbdc-478a-bf33-551df6292535,Joanna Hill,16,9,Dudleyfurt,"Biology, Math",2022-03-13,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,69,86,24.64
+40aaec7a-bf1d-4687-9a1e-c04271d04b0f,Seth Chambers,9,3,New Christopher,"English, History, Science",2020-08-06,ca968927-7194-4669-8dea-a29bdebec758,Jennifer Rogers,12,4.5,64,72,12.5
+f45aa79b-d855-4b35-9763-b159ed9a189a,Emily Whitehead,12,6,Richardberg,"Chemistry, English, Math",2021-04-03,ef137c97-1058-4f45-a539-021523c0b469,Andrew Burns,20,4.7,82,95,15.85
+771a0a12-2a6c-46cb-aa63-0fd171cf539d,Ronald Jackson,8,3,New Nicholasville,"Geography, Math, Chemistry",2020-11-08,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,66,88,33.33
+ff4533fe-bc6f-46ac-a139-d15d48d8b9ef,Natalie Robertson,11,2,North Paulview,"Math, Geography, English",2021-01-02,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,71,80,12.68
+adc786e7-1f39-44bc-a013-e55e3cd2aad8,Tiffany Chan,7,9,South Debra,"English, Biology, Physics",2022-01-25,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,82,91,10.98
+0d3dc6aa-dba4-4b5e-9498-665b79fe0a1b,Jennifer Bowers,16,5,Anthonyhaven,"English, Chemistry, Biology",2020-10-24,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,75,88,17.33
+c74dd25c-6dbf-459c-837d-975248f3531c,Michelle Shah DDS,11,6,Veronicaborough,"History, Science, Geography",2023-09-03,cfa243f7-74a4-4022-a7b1-5c59cf1b0e9c,Robert Turner,11,3.6,54,77,42.59
+bb5f15c1-b044-4ebb-8445-17ef1c769e1f,Jamie Leon,16,12,North Patriciafort,"Geography, Math, English",2022-09-16,7fdf2229-2ce4-4e41-9961-640123d8c480,David Martinez,18,4.6,82,85,3.66
+e0dd0541-7218-4a39-963a-7486be216476,Kristina Winters,8,11,New Stephanie,"Science, History",2020-10-04,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,94,99,5.32
+d181d9bf-aa09-4a46-b25a-3c68e8ef99e9,Deanna Salazar,8,10,New Sharonview,"Biology, Chemistry",2021-06-24,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,99,100,1.01
+c4be5a7f-a15d-41c9-9536-99654f4f5a26,David Reyes,18,6,Brewerhaven,"Chemistry, Math",2023-02-17,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,56,89,58.93
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,50,55,10.0
+a4e0ee5b-1638-425c-8d66-65d8edf2a720,Felicia Hunter,18,4,Williamsville,Science,2022-04-14,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,73,79,8.22
+4509a7a7-a2bc-4350-a627-e31d71f5df2e,Matthew Berger,10,1,Christopherberg,English,2023-10-29,29c5de2a-50ec-47bf-a933-312316653367,Henry Reeves,1,4.7,99,99,0.0
+1004d975-c045-483b-940f-737e548c3ec4,Daniel Hayes,13,4,Ruizhaven,Chemistry,2020-09-19,a3455904-0830-47b4-9b5e-ea1f8eace752,James Burch,20,4.2,52,87,67.31
+4d18c103-a100-4d14-ba92-cd28c4c536fb,Brooke Mccarthy,18,5,Davisfort,"Physics, Chemistry, History",2021-12-22,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,53,53,0.0
+d670f668-637e-4edc-9b6e-4ae7a6208143,Brittany Vazquez,14,3,Harmonmouth,Science,2020-05-21,9067f726-4ce6-4c93-99b6-edfad219c778,Andrew Smith,16,4.4,71,88,23.94
+82f4b48a-78a5-4d6b-b2de-d00f63e86951,Jason Sullivan,6,11,Lake Teresaberg,"Chemistry, Math, Physics",2020-01-16,166fca8f-9162-4297-bdf3-aecebd9a324e,Ryan Aguirre,9,4.8,50,85,70.0
+e689e5e8-87c4-4eb8-8f8e-3e0103c8e104,John Johnson,15,4,Sarahton,"Chemistry, Physics",2023-11-17,eed5c0da-b11e-4b43-a1d9-8c6456eebfe7,Victoria Jackson,1,3.6,63,99,57.14
+ff4533fe-bc6f-46ac-a139-d15d48d8b9ef,Natalie Robertson,11,2,North Paulview,"Math, Geography, English",2021-01-02,d3c94fc4-71da-4538-bfdb-8ef3619b351e,Michelle Curry,17,4.8,89,97,8.99
+14afe646-fe32-46bd-97d0-1e702f1d9bef,Kevin Moore,11,10,East Linda,English,2022-09-08,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,80,87,8.75
+e87a1613-e443-4f78-9558-867f5ba91faf,Charles Taylor,8,3,New Laurenside,"History, Science, Physics",2021-04-01,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,100,100,0.0
+0063b5c9-24fa-4196-b801-59870008cccf,Paul Chavez,14,2,East Nicholas,"Geography, History, English",2023-12-03,2709483a-176f-4018-b186-46ce90e49461,Sarah Levy,2,4.9,76,78,2.63
+91dc59ef-eb21-43f6-a6fd-68e8d69c91c2,Michael Levy,12,6,Port Ericaburgh,"History, Biology, Geography",2022-11-29,df0b60b9-6234-439f-beb9-13924c041d5a,Haley Jackson,6,4.7,51,96,88.24
+64348207-3415-44cc-b7fd-7fd135cb60f2,Anne Morales DDS,10,9,Curryburgh,"Math, Biology",2020-04-10,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,69,79,14.49
+61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Kathryn Berry,8,6,Lake Ronaldborough,"English, Chemistry, Biology",2022-06-18,00513063-020a-4a12-855d-fed45fa7cb00,Patrick Schwartz,14,4.4,64,95,48.44
+f172840f-3e19-40ba-ae09-ccfba3dee81f,Lori Dougherty,8,8,Benjaminfurt,"Science, English, History",2020-05-17,3e3292db-b0bd-4bdd-abbf-9e6d9e19e188,James Garcia,16,4.5,65,80,23.08
+735b3a80-3fbd-4eed-b23d-c8f5b17078ee,Stephanie Stanley,6,8,Alexanderberg,"Geography, Chemistry, Physics",2022-12-27,5286369e-1eff-4078-b985-577fc069f48d,David Kelley,5,4.1,86,96,11.63
+12e0c8b2-bad6-40fb-9948-8dec4f65d4d9,Melinda Kennedy,17,7,West Ryanborough,Physics,2024-01-22,22a85558-9028-4d86-b769-8480a0fdd91b,Angela Kelly,4,5.0,92,92,0.0
+6239f30a-7052-4bb6-90c6-735014b3f264,Kimberly Arnold,17,11,East Douglasfurt,"Biology, History, Geography",2024-05-07,770bd8a7-91fd-4815-ae3f-32e8d22428c0,Aaron Vaughn,11,4.7,100,100,0.0
+e53428bb-b20e-4719-a6b9-b21b94291726,Megan Sherman,7,11,East Ryan,"Chemistry, History, Biology",2022-04-03,a8e19b83-21ab-4e3d-bdf4-ff097d87d793,Joseph Powers,20,3.5,99,99,0.0
+3239d04b-cbab-4b51-b85c-5fdcbad3116b,Dan Mckinney,10,3,Johnsonland,"English, Physics, Geography",2021-08-03,0c7c9761-a617-4e49-844e-c9a812c19b82,Carolyn Fischer,17,4.5,66,97,46.97
+bda17da2-000f-463d-a2a0-1335a83023ab,Jonathon Scott,14,9,South Michelleport,Science,2023-06-21,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,78,90,15.38
+1de4ead3-362b-4eea-bdb6-3f3243cec809,Brenda Moon,14,1,Gileston,History,2022-07-17,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,78,92,17.95
+ecadbb86-f16f-4487-b7f2-1e5cce0755e3,Michael Patel,7,7,Franciscoberg,Science,2022-10-24,ef381237-19a0-4532-9219-7d9333a70c3d,Mr. John Heath,14,4.7,70,100,42.86
+e00111e5-d29d-45df-8f1d-a1100cc36d8c,Jennifer Dunn,8,10,Port Jessicatown,Chemistry,2023-06-02,beb6533a-bca2-41f1-81c7-f10be0467889,Joseph Carlson,3,4.5,62,73,17.74
+4574a37e-9dbf-493f-bc03-1029253053ae,Chad Bridges,17,6,Dicksonburgh,"Physics, Geography",2021-09-09,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,87,100,14.94
+7499b28c-30c3-4323-81b1-99c45f1ff97c,Mark Huber,9,12,South Jonathantown,Physics,2024-06-03,c6eb245e-4b7b-427a-a20e-222447d35352,Gloria Gutierrez,11,4.8,77,81,5.19
+62fda854-775e-4ec3-9c9d-03f309018aee,Brian Osborne,16,2,North Carmenberg,Biology,2022-10-03,d9836a1f-bad8-4e6a-9f5c-e777dae3c720,Carlos Sims,2,3.6,95,97,2.11
+771a0a12-2a6c-46cb-aa63-0fd171cf539d,Ronald Jackson,8,3,New Nicholasville,"Geography, Math, Chemistry",2020-11-08,04cb4dad-d98e-4ec6-8fde-ab3c158423a5,Pamela Rodriguez,11,4.6,94,100,6.38
+d95e17e1-900f-42f7-8f4b-4ed5ac1d02e8,Jennifer Johnson,13,6,Jamesfurt,"English, Geography",2020-07-18,9be82d6c-01c5-492b-b1d6-ec10cceeba87,Christopher Aguirre,13,3.6,59,78,32.2
+3e70f16a-5548-4822-9e1b-372ad3fbf47a,Michele Brown,8,5,East Linda,"History, Geography",2021-03-18,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,81,87,7.41
+39b66d71-951a-4518-87e7-7e2b6b291a13,Erik Stokes,11,3,Prestonville,Science,2023-08-09,8506b30c-2513-4e03-be8f-ed3dfde60dd4,Sarah Hester,20,4.9,87,88,1.15
+1c351dc9-4226-4a44-b73b-83502743e0df,Diana Roberson,12,7,South Patrick,"History, Math, Science",2024-04-23,39e72e2a-cabf-4d94-8bea-ce4de4f44028,Alexandria Gutierrez,19,4.1,64,86,34.38
+1004d975-c045-483b-940f-737e548c3ec4,Daniel Hayes,13,4,Ruizhaven,Chemistry,2020-09-19,b397b350-838a-425d-b436-915272e99ed1,William Miller,16,4.0,88,90,2.27
+0f013f4e-7396-4f8e-baa8-3536d3d779d5,David Russell,15,2,West Deniseborough,"Physics, Geography",2020-10-03,c317310d-db21-41c5-9551-d5e34f47bc94,Chelsea Banks,2,3.8,91,93,2.2
+e00111e5-d29d-45df-8f1d-a1100cc36d8c,Jennifer Dunn,8,10,Port Jessicatown,Chemistry,2023-06-02,a9c633e2-7c11-4797-b6bf-aa9b641d2571,Charles Morse,14,4.5,63,66,4.76
+ebba80d2-820b-451d-9b3a-efa6c7d02862,Allison Day,11,5,New Robert,"Geography, Science",2021-10-08,b473e514-20a7-446b-b9c8-d852760eff62,Daniel Moore,1,4.8,79,89,12.66
+d2fb05ca-3a72-4b9f-96fb-5c72ed6a1bfc,Taylor Williams,14,9,Courtneyshire,"Math, English",2024-02-15,7b2f84a1-db45-435d-a332-8206f963aee1,Victoria Humphrey,9,4.9,67,72,7.46
+4509a7a7-a2bc-4350-a627-e31d71f5df2e,Matthew Berger,10,1,Christopherberg,English,2023-10-29,b8ecfe83-3a61-4c6c-a6ab-5199de931896,Shannon Trujillo,15,3.8,60,69,15.0
+6282c33d-3665-46a5-a34d-a412816a5ea8,Katherine Martinez,11,3,New Alexanderland,Geography,2020-02-02,1744bed8-cc2f-4e64-8b31-ec7eab39109c,James Thompson,4,4.7,69,71,2.9
+35045f77-c317-43d4-afa4-f554feb46b24,Kelli Hughes,16,8,Jasonshire,"Chemistry, Biology, Geography",2022-10-20,d18c9149-847e-4300-baad-e4d47593afba,Christina Price,18,4.9,77,84,9.09
+4509a7a7-a2bc-4350-a627-e31d71f5df2e,Matthew Berger,10,1,Christopherberg,English,2023-10-29,55b26dc6-f634-4bae-9e7b-e7ad97d8c97d,Hannah Wilson,2,4.7,83,88,6.02
+ff4533fe-bc6f-46ac-a139-d15d48d8b9ef,Natalie Robertson,11,2,North Paulview,"Math, Geography, English",2021-01-02,6a372851-02c1-40b0-bce7-774272280d9a,Curtis Riley,5,3.6,90,94,4.44
+f190cb53-b489-45c7-a22f-6e82ecdd001e,Peter Anderson,10,5,Lake John,Physics,2022-07-19,52f29d2c-3747-414b-9140-e8ae892324d6,Victoria Moran,16,4.8,96,96,0.0
+4fe4b735-5c29-46da-81d7-fbe99df497f1,Alexander Stokes,13,2,New Michellehaven,Science,2023-02-15,fea0eb70-ca8b-425c-baab-6a44182165fc,Jacob Melendez,15,4.5,85,89,4.71
+a2834536-95de-4d6e-9df2-e07353f04099,Carlos Foster,7,11,New Vickie,"Chemistry, Math",2021-02-25,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,79,83,5.06
+35045f77-c317-43d4-afa4-f554feb46b24,Kelli Hughes,16,8,Jasonshire,"Chemistry, Biology, Geography",2022-10-20,6f6972a5-57ed-4cd1-b048-d3c90ff34b4c,Rebekah Howe,17,4.1,72,98,36.11
+5419eefc-d5e7-4e3f-a736-17d94d7bd307,Brian Hoffman,6,8,Wellsmouth,"Physics, Science, History",2021-01-21,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,92,93,1.09
+f190cb53-b489-45c7-a22f-6e82ecdd001e,Peter Anderson,10,5,Lake John,Physics,2022-07-19,cc800b04-07b0-4900-8154-1c1e420fedb8,Erin Wu,20,4.9,66,93,40.91
+c36a4162-da59-4d3e-a0fe-9e1b79101825,Shirley Robbins,10,2,Melvinburgh,"Physics, Biology, History",2021-08-02,8c662964-801f-4c5f-b21a-11284586ce14,Ashley Gonzales,19,4.2,96,99,3.12
+3e581dd5-eed1-4368-9811-6722277dfc7b,Tara Morgan,11,2,North Erin,History,2023-04-22,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,64,74,15.62
+dbf9a793-ecb9-4b39-b103-d90417426bd0,Carlos Lee,9,8,Burkeview,Geography,2024-01-04,85b3a01e-e414-4592-92ce-51fd55ed6029,Danny Harper,8,4.6,78,93,19.23
+6f9179cf-0018-4cfe-8eb0-92207984f33f,William Williams,16,10,Anthonystad,"Math, History",2023-02-15,d5b2fd55-a89d-431d-a6ad-2510de7b2c42,Jose Robles,7,4.6,80,89,11.25
+bda17da2-000f-463d-a2a0-1335a83023ab,Jonathon Scott,14,9,South Michelleport,Science,2023-06-21,aaa91ed4-7be1-451a-bc12-55417d534839,Vincent Roth,16,4.9,56,74,32.14
+061f5679-6908-4bd6-af61-7cacc674d244,Stephen Tran,7,2,Walkerbury,"Geography, English",2022-02-25,7c30634a-ac60-4a5d-89dd-3b0ea29d06e0,Michael Reynolds,19,3.9,82,82,0.0
+01847803-d840-4ccb-a446-eceecaa0a679,Brittney Guerrero,16,8,Wardton,"Biology, Math",2023-07-02,b97155a0-d334-4b0a-a96e-77d2ea853efa,Mark Montoya,6,4.1,81,81,0.0
+af273f40-55cd-472e-8b10-cf68b7691470,Victor Bond,10,1,Ayalaview,Geography,2021-05-06,36cc66a4-03a7-490a-b25c-c9a3edbc59fe,Michelle Mullins,14,4.7,80,93,16.25
+cdd592a0-aeff-488b-b5ec-a796dc5f3db7,Julie Green,15,8,Jacquelinefurt,"English, Geography",2021-05-19,8bebbe5b-9013-4c05-9cd7-8bd28fbc9bba,Jamie Barnes,10,4.3,53,59,11.32
+797c27bf-c793-4520-9c92-1e7f9aa1ecd6,Desiree Carr,10,6,Maynardville,Physics,2020-05-31,7a31daf1-2dcb-410e-b7a1-5f3beb5dc17d,Willie Weber,6,4.5,63,78,23.81
+a2834536-95de-4d6e-9df2-e07353f04099,Carlos Foster,7,11,New Vickie,"Chemistry, Math",2021-02-25,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,77,81,5.19
+567fec5e-04ea-481d-a006-8c1cbbd743b3,Cheryl Gutierrez,17,4,Lake Larryfurt,Chemistry,2020-06-11,e1bd8bab-1a6e-4ef7-9470-08340af23ed3,Michael Torres,3,4.7,92,100,8.7
+b4577bf7-a251-40a8-9870-c707955fbc33,Dr. Ashley Maxwell,7,2,New Dawn,"History, Science",2024-05-14,e412eb0b-d260-430d-aedc-5fdd27ef0967,Benjamin Garcia DVM,9,4.2,93,99,6.45
+a83299e9-fae4-4529-ba9f-cece50ed6af2,Katelyn Olson,8,11,Josephland,"Math, Physics",2023-11-26,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,57,91,59.65
+01847803-d840-4ccb-a446-eceecaa0a679,Brittney Guerrero,16,8,Wardton,"Biology, Math",2023-07-02,4f73efb1-70dc-4c84-b569-62c2706c360e,Darrell Rivera,2,4.9,93,100,7.53
+56525ce0-3725-4d0c-b9c4-5c38b440ffe0,Andrew Martin,11,6,West Diamondberg,"Math, Chemistry",2020-07-16,cf4d5d14-adc0-4cdf-be29-781507814bf4,Joseph Dunn,18,4.3,70,92,31.43
+06b42b6f-1f94-43c8-98a7-75945b8c4949,Christopher Gilbert,7,1,West Stephenside,Math,2024-03-21,ad26ebe4-cadf-4be2-868f-63654405962b,Jeremy Page,4,3.8,97,97,0.0
+a2834536-95de-4d6e-9df2-e07353f04099,Carlos Foster,7,11,New Vickie,"Chemistry, Math",2021-02-25,64d2a318-4388-438a-82bc-a728ec207495,Marie Larson,20,3.8,50,86,72.0
+b341facd-ff0a-40f1-a425-799aa905d750,Rebecca Miller,18,11,South Brendamouth,"Biology, Physics, History",2021-08-14,e309b6b2-7e28-4b78-ab5c-31226e939338,Jeffrey Harris,17,3.7,72,77,6.94
+bc52b34e-cdfa-4cc8-8805-ae3188a0edce,Dr. Olivia Cunningham,18,10,South Stephanieburgh,"Physics, History, Biology",2020-01-10,a5160d17-e71f-4674-8588-3d4441b11180,Joshua Coleman,11,3.7,77,79,2.6
+a4b0c73b-f74e-41a1-a2e5-b72606b9370b,Mark Wise,15,5,Mcdonaldshire,"Science, Geography",2024-05-26,4d433c1f-4e25-442b-8c45-89b5bbd4b4ed,Kevin Adams,20,3.6,79,85,7.59
